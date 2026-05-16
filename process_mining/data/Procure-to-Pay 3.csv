@@ -1,0 +1,630 @@
+Case ID,Start Timestamp,Complete Timestamp,Activity,Resource,Role,Invoice amount,Discount,Country
+1299,06/07/2020 08:17:00,06/07/2020 09:14:00,Create Purchase Requisition,Penn Osterwalder,Requester,1170497.94,197375.94,AUS
+1299,07/07/2020 08:23:00,07/07/2020 08:29:00,Analyze Purchase Requisition,Heinz Gutschmidt,Requester Manager,1170497.94,197375.94,AUS
+1299,07/07/2020 08:32:00,07/07/2020 08:33:00,Create Request for Quotation Requester Manager,Heinz Gutschmidt,Requester Manager,1170497.94,197375.94,AUS
+1299,08/08/2020 19:03:00,08/08/2020 19:26:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,1170497.94,197375.94,AUS
+1299,09/08/2020 17:10:00,09/08/2020 17:38:00,Send Request for Quotation to Supplier,Karel de Groot,Purchasing Agent,1170497.94,197375.94,AUS
+1299,10/08/2020 18:44:00,10/08/2020 22:02:00,Create Quotation comparison Map,Francois de Perrier,Purchasing Agent,1170497.94,197375.94,AUS
+1299,11/08/2020 04:31:00,11/08/2020 04:48:00,Analyze Quotation comparison Map,Anna Kaufmann,Requester,1170497.94,197375.94,AUS
+1299,11/08/2020 04:48:00,11/08/2020 04:48:00,Choose best option,Tesca Lobes,Requester,1170497.94,197375.94,AUS
+1299,12/08/2020 20:36:00,13/08/2020 06:22:00,Settle conditions with supplier,Karel de Groot,Purchasing Agent,1170497.94,197375.94,AUS
+1299,14/08/2020 05:07:00,14/08/2020 05:14:00,Create Purchase Order,Karel de Groot,Purchasing Agent,1170497.94,197375.94,AUS
+1299,18/08/2020 01:54:00,18/08/2020 02:09:00,Confirm Purchase Order,Karen Clarens,Supplier,1170497.94,197375.94,AUS
+1299,13/09/2020 05:28:00,15/09/2020 02:37:00,Deliver Goods Services,Kiu Kan,Supplier,1170497.94,197375.94,AUS
+1299,15/09/2020 10:00:00,15/09/2020 10:01:00,Release Purchase Order,Kim Passa,Requester,1170497.94,197375.94,AUS
+1299,15/09/2020 16:45:00,15/09/2020 16:46:00,Approve Purchase Order for payment,Karel de Groot,Purchasing Agent,1170497.94,197375.94,AUS
+1299,19/09/2020 22:22:00,19/09/2020 22:22:00,Send invoice,Kiu Kan,Supplier,1170497.94,197375.94,AUS
+1299,20/09/2020 12:43:00,20/09/2020 12:48:00,Release Supplier's Invoice,Pedro Alvares,Financial Manager,1170497.94,197375.94,AUS
+1299,20/09/2020 12:48:00,20/09/2020 12:48:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,1170497.94,197375.94,AUS
+1299,20/09/2020 13:05:00,20/09/2020 13:11:00,Pay invoice,Karalda Nimwada,Financial Manager,1170497.94,197375.94,AUS
+46,06/01/2020 02:10:00,06/01/2020 03:01:00,Create Purchase Requisition,Anna Kaufmann,Requester,1285455.0,239010.14,NZL
+46,06/01/2020 05:17:00,06/01/2020 05:27:00,Create Request for Quotation Requester,Miu Hanwan,Requester,1285455.0,239010.14,NZL
+46,06/01/2020 14:53:00,06/01/2020 15:18:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,1285455.0,239010.14,NZL
+46,06/01/2020 16:07:00,06/01/2020 16:21:00,Amend Request for Quotation Requester,Tesca Lobes,Requester Manager,1285455.0,239010.14,NZL
+46,08/01/2020 03:34:00,08/01/2020 03:39:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,1285455.0,239010.14,NZL
+46,08/01/2020 04:26:00,08/01/2020 04:36:00,Amend Request for Quotation Requester,Clement Duchot,Requester Manager,1285455.0,239010.14,NZL
+46,12/01/2020 06:09:00,12/01/2020 06:42:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,1285455.0,239010.14,NZL
+46,12/01/2020 07:25:00,12/01/2020 07:36:00,Amend Request for Quotation Requester,Anne Olwada,Requester Manager,1285455.0,239010.14,NZL
+46,12/01/2020 09:38:00,12/01/2020 10:05:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,1285455.0,239010.14,NZL
+46,12/01/2020 10:52:00,12/01/2020 11:01:00,Amend Request for Quotation Requester,Immanuel Karagianni,Requester Manager,1285455.0,239010.14,NZL
+46,12/01/2020 13:04:00,12/01/2020 13:26:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,1285455.0,239010.14,NZL
+46,12/01/2020 21:55:00,12/01/2020 22:07:00,Send Request for Quotation to Supplier,Francois de Perrier,Purchasing Agent,1285455.0,239010.14,NZL
+46,13/01/2020 00:44:00,13/01/2020 03:34:00,Create Quotation comparison Map,Karel de Groot,Purchasing Agent,1285455.0,239010.14,NZL
+46,13/01/2020 10:04:00,13/01/2020 10:33:00,Analyze Quotation comparison Map,Tesca Lobes,Requester,1285455.0,239010.14,NZL
+46,13/01/2020 10:33:00,13/01/2020 10:33:00,Choose best option,Elvira Lores,Requester,1285455.0,239010.14,NZL
+46,13/01/2020 15:36:00,13/01/2020 23:59:00,Settle conditions with supplier,Francois de Perrier,Purchasing Agent,1285455.0,239010.14,NZL
+46,14/01/2020 09:41:00,14/01/2020 09:50:00,Create Purchase Order,Magdalena Predutta,Purchasing Agent,1285455.0,239010.14,NZL
+46,16/01/2020 06:43:00,16/01/2020 07:01:00,Confirm Purchase Order,Karen Clarens,Supplier,1285455.0,239010.14,NZL
+46,16/01/2020 20:52:00,17/01/2020 10:10:00,Deliver Goods Services,Sean Manney,Supplier,1285455.0,239010.14,NZL
+46,17/01/2020 17:44:00,17/01/2020 17:45:00,Release Purchase Order,Clement Duchot,Requester,1285455.0,239010.14,NZL
+46,18/01/2020 18:00:00,18/01/2020 18:01:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,1285455.0,239010.14,NZL
+46,20/01/2020 20:29:00,20/01/2020 20:29:00,Send invoice,Sean Manney,Supplier,1285455.0,239010.14,NZL
+46,21/01/2020 10:56:00,21/01/2020 11:01:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,1285455.0,239010.14,NZL
+46,21/01/2020 11:01:00,21/01/2020 11:01:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,1285455.0,239010.14,NZL
+46,21/01/2020 11:34:00,21/01/2020 11:42:00,Pay invoice,Pedro Alvares,Financial Manager,1285455.0,239010.14,NZL
+51,07/01/2020 03:53:00,07/01/2020 04:42:00,Create Purchase Requisition,Christian Francois,Requester,1428548.5,332554.61,SGP
+51,07/01/2020 20:48:00,07/01/2020 20:55:00,Analyze Purchase Requisition,Heinz Gutschmidt,Requester Manager,1428548.5,332554.61,SGP
+51,07/01/2020 20:58:00,07/01/2020 21:01:00,Create Request for Quotation Requester Manager,Maris Freeman,Requester Manager,1428548.5,332554.61,SGP
+51,08/01/2020 03:05:00,08/01/2020 03:34:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,1428548.5,332554.61,SGP
+51,08/01/2020 04:31:00,08/01/2020 04:44:00,Amend Request for Quotation Requester,Esmana Liubiata,Requester Manager,1428548.5,332554.61,SGP
+51,10/01/2020 17:44:00,10/01/2020 18:14:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,1428548.5,332554.61,SGP
+51,10/01/2020 19:06:00,10/01/2020 19:14:00,Amend Request for Quotation Requester,Christian Francois,Requester Manager,1428548.5,332554.61,SGP
+51,12/01/2020 02:37:00,12/01/2020 02:57:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,1428548.5,332554.61,SGP
+51,12/01/2020 07:34:00,12/01/2020 07:54:00,Send Request for Quotation to Supplier,Magdalena Predutta,Purchasing Agent,1428548.5,332554.61,SGP
+51,12/01/2020 08:05:00,12/01/2020 14:09:00,Create Quotation comparison Map,Francois de Perrier,Purchasing Agent,1428548.5,332554.61,SGP
+51,12/01/2020 20:45:00,12/01/2020 20:59:00,Analyze Quotation comparison Map,Immanuel Karagianni,Requester,1428548.5,332554.61,SGP
+51,12/01/2020 20:59:00,12/01/2020 20:59:00,Choose best option,Nico Ojenbeer,Requester,1428548.5,332554.61,SGP
+51,12/01/2020 23:37:00,13/01/2020 08:10:00,Settle conditions with supplier,Francois de Perrier,Purchasing Agent,1428548.5,332554.61,SGP
+51,14/01/2020 00:07:00,14/01/2020 00:15:00,Create Purchase Order,Karel de Groot,Purchasing Agent,1428548.5,332554.61,SGP
+51,14/01/2020 05:19:00,14/01/2020 05:25:00,Confirm Purchase Order,Esmeralda Clay,Supplier,1428548.5,332554.61,SGP
+51,14/01/2020 17:22:00,15/01/2020 19:16:00,Deliver Goods Services,Carmen Finacse,Supplier,1428548.5,332554.61,SGP
+51,16/01/2020 02:57:00,16/01/2020 02:58:00,Release Purchase Order,Anna Kaufmann,Requester,1428548.5,332554.61,SGP
+51,16/01/2020 11:25:00,16/01/2020 11:26:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,1428548.5,332554.61,SGP
+51,17/01/2020 05:35:00,17/01/2020 05:35:00,Send invoice,Kiu Kan,Supplier,1428548.5,332554.61,SGP
+51,17/01/2020 19:44:00,17/01/2020 19:47:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,1428548.5,332554.61,SGP
+51,17/01/2020 19:47:00,17/01/2020 19:47:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,1428548.5,332554.61,SGP
+51,17/01/2020 20:27:00,17/01/2020 20:37:00,Pay invoice,Pedro Alvares,Financial Manager,1428548.5,332554.61,SGP
+52,07/01/2020 06:51:00,07/01/2020 07:11:00,Create Purchase Requisition,Nico Ojenbeer,Requester,1412041.75,80221.38,AUS
+52,07/01/2020 09:21:00,07/01/2020 09:30:00,Create Request for Quotation Requester,Elvira Lores,Requester,1412041.75,80221.38,AUS
+52,07/01/2020 13:28:00,07/01/2020 13:47:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,1412041.75,80221.38,AUS
+52,09/01/2020 09:14:00,09/01/2020 09:41:00,Send Request for Quotation to Supplier,Karel de Groot,Purchasing Agent,1412041.75,80221.38,AUS
+52,10/01/2020 04:02:00,10/01/2020 04:45:00,Create Quotation comparison Map,Karel de Groot,Purchasing Agent,1412041.75,80221.38,AUS
+52,10/01/2020 11:29:00,10/01/2020 11:36:00,Analyze Quotation comparison Map,Clement Duchot,Requester,1412041.75,80221.38,AUS
+52,10/01/2020 11:36:00,10/01/2020 11:36:00,Choose best option,Kim Passa,Requester,1412041.75,80221.38,AUS
+52,11/01/2020 07:14:00,11/01/2020 21:14:00,Settle conditions with supplier,Francois de Perrier,Purchasing Agent,1412041.75,80221.38,AUS
+52,12/01/2020 01:27:00,12/01/2020 01:34:00,Create Purchase Order,Karel de Groot,Purchasing Agent,1412041.75,80221.38,AUS
+52,12/01/2020 11:47:00,12/01/2020 12:12:00,Confirm Purchase Order,Kiu Kan,Supplier,1412041.75,80221.38,AUS
+52,14/01/2020 02:04:00,14/01/2020 23:51:00,Deliver Goods Services,Sean Manney,Supplier,1412041.75,80221.38,AUS
+52,15/01/2020 07:43:00,15/01/2020 07:44:00,Release Purchase Order,Esmana Liubiata,Requester,1412041.75,80221.38,AUS
+52,15/01/2020 17:54:00,15/01/2020 17:55:00,Approve Purchase Order for payment,Francois de Perrier,Purchasing Agent,1412041.75,80221.38,AUS
+52,17/01/2020 04:07:00,17/01/2020 04:07:00,Send invoice,Kiu Kan,Supplier,1412041.75,80221.38,AUS
+52,17/01/2020 18:26:00,17/01/2020 18:29:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,1412041.75,80221.38,AUS
+52,17/01/2020 18:29:00,17/01/2020 18:29:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,1412041.75,80221.38,AUS
+52,17/01/2020 19:11:00,17/01/2020 19:21:00,Pay invoice,Pedro Alvares,Financial Manager,1412041.75,80221.38,AUS
+53,07/01/2020 10:04:00,07/01/2020 10:46:00,Create Purchase Requisition,Clement Duchot,Requester,472247.53,5942.89,JPN
+53,07/01/2020 15:24:00,07/01/2020 15:33:00,Create Request for Quotation Requester,Alberto Duport,Requester,472247.53,5942.89,JPN
+53,08/01/2020 02:44:00,08/01/2020 03:05:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,472247.53,5942.89,JPN
+53,09/01/2020 15:13:00,09/01/2020 15:41:00,Send Request for Quotation to Supplier,Karel de Groot,Purchasing Agent,472247.53,5942.89,JPN
+53,10/01/2020 04:45:00,10/01/2020 06:06:00,Create Quotation comparison Map,Karel de Groot,Purchasing Agent,472247.53,5942.89,JPN
+53,10/01/2020 13:03:00,10/01/2020 13:21:00,Analyze Quotation comparison Map,Christian Francois,Requester,472247.53,5942.89,JPN
+53,10/01/2020 13:21:00,10/01/2020 13:21:00,Choose best option,Anna Kaufmann,Requester,472247.53,5942.89,JPN
+53,11/01/2020 05:46:00,11/01/2020 11:00:00,Settle conditions with supplier,Karel de Groot,Purchasing Agent,472247.53,5942.89,JPN
+53,12/01/2020 03:11:00,12/01/2020 03:21:00,Create Purchase Order,Magdalena Predutta,Purchasing Agent,472247.53,5942.89,JPN
+53,13/01/2020 00:50:00,13/01/2020 01:14:00,Confirm Purchase Order,Sean Manney,Supplier,472247.53,5942.89,JPN
+53,14/01/2020 02:49:00,15/01/2020 19:37:00,Deliver Goods Services,Kiu Kan,Supplier,472247.53,5942.89,JPN
+53,16/01/2020 03:06:00,16/01/2020 03:07:00,Release Purchase Order,Fjodor Kowalski,Requester,472247.53,5942.89,JPN
+53,16/01/2020 14:35:00,16/01/2020 14:36:00,Approve Purchase Order for payment,Karel de Groot,Purchasing Agent,472247.53,5942.89,JPN
+53,17/01/2020 06:09:00,17/01/2020 06:09:00,Send invoice,Esmeralda Clay,Supplier,472247.53,5942.89,JPN
+53,17/01/2020 20:37:00,17/01/2020 20:41:00,Release Supplier's Invoice,Pedro Alvares,Financial Manager,472247.53,5942.89,JPN
+53,17/01/2020 20:41:00,17/01/2020 20:41:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,472247.53,5942.89,JPN
+53,17/01/2020 21:33:00,17/01/2020 21:46:00,Pay invoice,Pedro Alvares,Financial Manager,472247.53,5942.89,JPN
+54,07/01/2020 14:59:00,07/01/2020 15:43:00,Create Purchase Requisition,Clement Duchot,Requester,709328.46,164474.35,AUS
+54,07/01/2020 21:15:00,07/01/2020 21:25:00,Create Request for Quotation Requester,Christian Francois,Requester,709328.46,164474.35,AUS
+54,08/01/2020 01:56:00,08/01/2020 02:17:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,709328.46,164474.35,AUS
+54,08/01/2020 03:08:00,08/01/2020 03:21:00,Amend Request for Quotation Requester,Elvira Lores,Requester Manager,709328.46,164474.35,AUS
+54,08/01/2020 04:43:00,08/01/2020 05:11:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,709328.46,164474.35,AUS
+54,09/01/2020 07:11:00,09/01/2020 07:32:00,Send Request for Quotation to Supplier,Francois de Perrier,Purchasing Agent,709328.46,164474.35,AUS
+54,09/01/2020 15:51:00,09/01/2020 19:52:00,Create Quotation comparison Map,Karel de Groot,Purchasing Agent,709328.46,164474.35,AUS
+54,10/01/2020 02:58:00,10/01/2020 03:17:00,Analyze Quotation comparison Map,Immanuel Karagianni,Requester,709328.46,164474.35,AUS
+54,10/01/2020 03:17:00,10/01/2020 03:17:00,Choose best option,Fjodor Kowalski,Requester,709328.46,164474.35,AUS
+54,10/01/2020 10:20:00,10/01/2020 16:51:00,Settle conditions with supplier,Karel de Groot,Purchasing Agent,709328.46,164474.35,AUS
+54,12/01/2020 01:19:00,12/01/2020 01:26:00,Create Purchase Order,Karel de Groot,Purchasing Agent,709328.46,164474.35,AUS
+54,12/01/2020 13:52:00,12/01/2020 14:21:00,Confirm Purchase Order,Esmeralda Clay,Supplier,709328.46,164474.35,AUS
+54,13/01/2020 23:27:00,14/01/2020 22:42:00,Deliver Goods Services,Karen Clarens,Supplier,709328.46,164474.35,AUS
+54,15/01/2020 06:43:00,15/01/2020 06:44:00,Release Purchase Order,Nico Ojenbeer,Requester,709328.46,164474.35,AUS
+54,15/01/2020 18:04:00,15/01/2020 18:05:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,709328.46,164474.35,AUS
+54,18/01/2020 17:45:00,18/01/2020 17:45:00,Send invoice,Carmen Finacse,Supplier,709328.46,164474.35,AUS
+54,19/01/2020 08:01:00,19/01/2020 08:06:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,709328.46,164474.35,AUS
+54,19/01/2020 08:06:00,19/01/2020 08:06:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,709328.46,164474.35,AUS
+54,19/01/2020 08:29:00,19/01/2020 08:36:00,Pay invoice,Karalda Nimwada,Financial Manager,709328.46,164474.35,AUS
+50,06/01/2020 12:38:00,06/01/2020 13:05:00,Create Purchase Requisition,Esmana Liubiata,Requester,1399817.75,84501.8,SGP
+50,06/01/2020 15:44:00,06/01/2020 15:50:00,Create Request for Quotation Requester,Penn Osterwalder,Requester,1399817.75,84501.8,SGP
+50,06/01/2020 20:12:00,06/01/2020 20:20:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,1399817.75,84501.8,SGP
+50,07/01/2020 21:01:00,07/01/2020 21:34:00,Send Request for Quotation to Supplier,Francois de Perrier,Purchasing Agent,1399817.75,84501.8,SGP
+50,08/01/2020 01:07:00,08/01/2020 03:56:00,Create Quotation comparison Map,Karel de Groot,Purchasing Agent,1399817.75,84501.8,SGP
+50,08/01/2020 11:03:00,08/01/2020 11:21:00,Analyze Quotation comparison Map,Esmana Liubiata,Requester,1399817.75,84501.8,SGP
+50,08/01/2020 11:21:00,08/01/2020 11:21:00,Choose best option,Clement Duchot,Requester,1399817.75,84501.8,SGP
+50,08/01/2020 17:46:00,09/01/2020 01:50:00,Settle conditions with supplier,Francois de Perrier,Purchasing Agent,1399817.75,84501.8,SGP
+50,09/01/2020 07:32:00,09/01/2020 07:44:00,Create Purchase Order,Francois de Perrier,Purchasing Agent,1399817.75,84501.8,SGP
+50,10/01/2020 01:03:00,10/01/2020 01:16:00,Confirm Purchase Order,Karen Clarens,Supplier,1399817.75,84501.8,SGP
+50,10/01/2020 15:55:00,12/01/2020 00:55:00,Deliver Goods Services,Esmeralda Clay,Supplier,1399817.75,84501.8,SGP
+50,12/01/2020 08:26:00,12/01/2020 08:27:00,Release Purchase Order,Miu Hanwan,Requester,1399817.75,84501.8,SGP
+50,12/01/2020 22:07:00,12/01/2020 22:08:00,Approve Purchase Order for payment,Francois de Perrier,Purchasing Agent,1399817.75,84501.8,SGP
+50,17/01/2020 05:35:00,17/01/2020 05:35:00,Send invoice,Kiu Kan,Supplier,1399817.75,84501.8,SGP
+50,17/01/2020 19:53:00,17/01/2020 19:57:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,1399817.75,84501.8,SGP
+50,17/01/2020 19:57:00,17/01/2020 19:57:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,1399817.75,84501.8,SGP
+50,17/01/2020 20:55:00,17/01/2020 21:05:00,Pay invoice,Pedro Alvares,Financial Manager,1399817.75,84501.8,SGP
+1004,26/05/2020 19:39:00,26/05/2020 19:56:00,Create Purchase Requisition,Tesca Lobes,Requester,583880.45,70821.41,NZL
+1004,27/05/2020 13:35:00,27/05/2020 13:44:00,Analyze Purchase Requisition,Heinz Gutschmidt,Requester Manager,583880.45,70821.41,NZL
+1004,27/05/2020 13:50:00,27/05/2020 13:51:00,Create Request for Quotation Requester Manager,Heinz Gutschmidt,Requester Manager,583880.45,70821.41,NZL
+1004,31/05/2020 22:43:00,31/05/2020 23:18:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,583880.45,70821.41,NZL
+1290,04/07/2020 20:21:00,04/07/2020 20:53:00,Create Purchase Requisition,Penn Osterwalder,Requester,792786.49,34038.58,SGP
+1290,05/07/2020 09:05:00,05/07/2020 09:09:00,Analyze Purchase Requisition,Heinz Gutschmidt,Requester Manager,792786.49,34038.58,SGP
+1008,28/05/2020 07:27:00,28/05/2020 07:50:00,Create Purchase Requisition,Fjodor Kowalski,Requester,906751.95,32995.21,NZL
+1008,28/05/2020 14:05:00,28/05/2020 14:14:00,Create Request for Quotation Requester,Miu Hanwan,Requester,906751.95,32995.21,NZL
+1008,09/06/2020 22:49:00,09/06/2020 23:20:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,906751.95,32995.21,NZL
+1294,05/07/2020 02:21:00,05/07/2020 03:10:00,Create Purchase Requisition,Christian Francois,Requester,899266.6,200513.83,JPN
+1294,06/07/2020 01:45:00,06/07/2020 01:52:00,Analyze Purchase Requisition,Francis Odell,Requester Manager,899266.6,200513.83,JPN
+1294,06/07/2020 01:57:00,06/07/2020 02:00:00,Create Request for Quotation Requester Manager,Heinz Gutschmidt,Requester Manager,899266.6,200513.83,JPN
+1294,22/07/2020 04:38:00,22/07/2020 05:04:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,899266.6,200513.83,JPN
+281,07/02/2020 22:59:00,07/02/2020 23:19:00,Create Purchase Requisition,Alberto Duport,Requester,780674.61,83649.26,AUS
+281,07/02/2020 23:56:00,08/02/2020 00:06:00,Create Request for Quotation Requester,Nico Ojenbeer,Requester,780674.61,83649.26,AUS
+281,09/02/2020 22:33:00,09/02/2020 22:55:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,780674.61,83649.26,AUS
+281,09/02/2020 23:28:00,09/02/2020 23:36:00,Amend Request for Quotation Requester,Tesca Lobes,Requester Manager,780674.61,83649.26,AUS
+281,14/02/2020 19:58:00,14/02/2020 20:23:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,780674.61,83649.26,AUS
+281,14/02/2020 21:10:00,14/02/2020 21:15:00,Amend Request for Quotation Requester,Fjodor Kowalski,Requester Manager,780674.61,83649.26,AUS
+281,15/02/2020 11:56:00,15/02/2020 12:09:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,780674.61,83649.26,AUS
+281,15/02/2020 20:08:00,15/02/2020 20:36:00,Send Request for Quotation to Supplier,Francois de Perrier,Purchasing Agent,780674.61,83649.26,AUS
+281,15/02/2020 23:03:00,16/02/2020 04:24:00,Create Quotation comparison Map,Karel de Groot,Purchasing Agent,780674.61,83649.26,AUS
+281,16/02/2020 10:55:00,16/02/2020 11:03:00,Analyze Quotation comparison Map,Nico Ojenbeer,Requester,780674.61,83649.26,AUS
+281,16/02/2020 11:03:00,16/02/2020 11:03:00,Choose best option,Kim Passa,Requester,780674.61,83649.26,AUS
+281,16/02/2020 20:17:00,17/02/2020 00:45:00,Settle conditions with supplier,Magdalena Predutta,Purchasing Agent,780674.61,83649.26,AUS
+281,17/02/2020 16:50:00,17/02/2020 17:02:00,Create Purchase Order,Francois de Perrier,Purchasing Agent,780674.61,83649.26,AUS
+281,18/02/2020 04:02:00,18/02/2020 04:11:00,Confirm Purchase Order,Sean Manney,Supplier,780674.61,83649.26,AUS
+281,20/02/2020 18:18:00,22/02/2020 17:33:00,Deliver Goods Services,Esmeralda Clay,Supplier,780674.61,83649.26,AUS
+281,23/02/2020 01:21:00,23/02/2020 01:22:00,Release Purchase Order,Anne Olwada,Requester,780674.61,83649.26,AUS
+281,23/02/2020 07:00:00,23/02/2020 07:01:00,Approve Purchase Order for payment,Francois de Perrier,Purchasing Agent,780674.61,83649.26,AUS
+281,23/02/2020 19:55:00,23/02/2020 19:55:00,Send invoice,Kiu Kan,Supplier,780674.61,83649.26,AUS
+281,24/02/2020 10:14:00,24/02/2020 10:20:00,Release Supplier's Invoice,Pedro Alvares,Financial Manager,780674.61,83649.26,AUS
+281,24/02/2020 10:20:00,24/02/2020 10:20:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,780674.61,83649.26,AUS
+281,24/02/2020 11:04:00,24/02/2020 11:09:00,Pay invoice,Pedro Alvares,Financial Manager,780674.61,83649.26,AUS
+1395,21/07/2020 09:15:00,21/07/2020 10:00:00,Create Purchase Requisition,Christian Francois,Requester,1367775.19,281071.85,SGP
+1395,21/07/2020 20:50:00,21/07/2020 20:59:00,Analyze Purchase Requisition,Francis Odell,Requester Manager,1367775.19,281071.85,SGP
+487,11/03/2020 05:38:00,11/03/2020 06:10:00,Create Purchase Requisition,Esmana Liubiata,Requester,651067.88,105498.0,NZL
+487,11/03/2020 11:40:00,11/03/2020 11:49:00,Create Request for Quotation Requester,Clement Duchot,Requester,651067.88,105498.0,NZL
+487,12/03/2020 05:41:00,12/03/2020 06:03:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,651067.88,105498.0,NZL
+487,12/03/2020 14:57:00,12/03/2020 15:21:00,Send Request for Quotation to Supplier,Francois de Perrier,Purchasing Agent,651067.88,105498.0,NZL
+487,12/03/2020 19:52:00,13/03/2020 00:44:00,Create Quotation comparison Map,Karel de Groot,Purchasing Agent,651067.88,105498.0,NZL
+487,13/03/2020 07:40:00,13/03/2020 08:04:00,Analyze Quotation comparison Map,Miu Hanwan,Requester,651067.88,105498.0,NZL
+487,13/03/2020 08:04:00,13/03/2020 08:04:00,Choose best option,Tesca Lobes,Requester,651067.88,105498.0,NZL
+487,13/03/2020 11:06:00,13/03/2020 20:25:00,Settle conditions with supplier,Francois de Perrier,Purchasing Agent,651067.88,105498.0,NZL
+487,13/03/2020 21:29:00,13/03/2020 21:39:00,Create Purchase Order,Francois de Perrier,Purchasing Agent,651067.88,105498.0,NZL
+487,14/03/2020 13:45:00,14/03/2020 14:09:00,Confirm Purchase Order,Carmen Finacse,Supplier,651067.88,105498.0,NZL
+487,15/03/2020 07:41:00,16/03/2020 10:49:00,Deliver Goods Services,Sean Manney,Supplier,651067.88,105498.0,NZL
+487,16/03/2020 19:11:00,16/03/2020 19:12:00,Release Purchase Order,Christian Francois,Requester,651067.88,105498.0,NZL
+487,17/03/2020 03:03:00,17/03/2020 03:04:00,Approve Purchase Order for payment,Francois de Perrier,Purchasing Agent,651067.88,105498.0,NZL
+487,20/03/2020 02:39:00,20/03/2020 02:39:00,Send invoice,Esmeralda Clay,Supplier,651067.88,105498.0,NZL
+487,20/03/2020 16:59:00,20/03/2020 17:01:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,651067.88,105498.0,NZL
+487,20/03/2020 17:01:00,20/03/2020 17:01:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,651067.88,105498.0,NZL
+487,20/03/2020 18:06:00,20/03/2020 18:18:00,Pay invoice,Karalda Nimwada,Financial Manager,651067.88,105498.0,NZL
+280,07/02/2020 20:49:00,07/02/2020 20:58:00,Create Purchase Requisition,Anna Kaufmann,Requester,742674.48,82058.5,NZL
+280,08/02/2020 02:25:00,08/02/2020 02:36:00,Create Request for Quotation Requester,Elvira Lores,Requester,742674.48,82058.5,NZL
+280,09/02/2020 22:16:00,09/02/2020 22:43:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,742674.48,82058.5,NZL
+280,10/02/2020 08:25:00,10/02/2020 09:04:00,Send Request for Quotation to Supplier,Magdalena Predutta,Purchasing Agent,742674.48,82058.5,NZL
+280,10/02/2020 21:21:00,11/02/2020 00:44:00,Create Quotation comparison Map,Francois de Perrier,Purchasing Agent,742674.48,82058.5,NZL
+280,11/02/2020 07:44:00,11/02/2020 08:07:00,Analyze Quotation comparison Map,Anne Olwada,Requester,742674.48,82058.5,NZL
+280,11/02/2020 08:07:00,11/02/2020 08:07:00,Choose best option,Immanuel Karagianni,Requester,742674.48,82058.5,NZL
+280,11/02/2020 13:15:00,11/02/2020 21:50:00,Settle conditions with supplier,Francois de Perrier,Purchasing Agent,742674.48,82058.5,NZL
+280,12/02/2020 19:07:00,12/02/2020 19:18:00,Create Purchase Order,Karel de Groot,Purchasing Agent,742674.48,82058.5,NZL
+280,13/02/2020 18:13:00,13/02/2020 18:40:00,Confirm Purchase Order,Kiu Kan,Supplier,742674.48,82058.5,NZL
+280,16/02/2020 00:57:00,16/02/2020 19:02:00,Deliver Goods Services,Kiu Kan,Supplier,742674.48,82058.5,NZL
+280,17/02/2020 02:54:00,17/02/2020 02:55:00,Release Purchase Order,Esmana Liubiata,Requester,742674.48,82058.5,NZL
+280,17/02/2020 07:55:00,17/02/2020 07:56:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,742674.48,82058.5,NZL
+280,17/02/2020 13:49:00,17/02/2020 13:49:00,Send invoice,Kiu Kan,Supplier,742674.48,82058.5,NZL
+280,18/02/2020 04:05:00,18/02/2020 04:12:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,742674.48,82058.5,NZL
+280,18/02/2020 04:12:00,18/02/2020 04:12:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,742674.48,82058.5,NZL
+280,18/02/2020 05:04:00,18/02/2020 05:17:00,Pay invoice,Karalda Nimwada,Financial Manager,742674.48,82058.5,NZL
+486,11/03/2020 03:14:00,11/03/2020 03:50:00,Create Purchase Requisition,Tesca Lobes,Requester,442358.65,95761.66,AUS
+486,11/03/2020 05:47:00,11/03/2020 05:57:00,Create Request for Quotation Requester,Penn Osterwalder,Requester,442358.65,95761.66,AUS
+486,13/03/2020 03:17:00,13/03/2020 03:47:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,442358.65,95761.66,AUS
+1009,28/05/2020 08:30:00,28/05/2020 08:52:00,Create Purchase Requisition,Christian Francois,Requester,220325.88,35136.92,NZL
+1009,28/05/2020 16:05:00,28/05/2020 16:14:00,Create Request for Quotation Requester,Immanuel Karagianni,Requester,220325.88,35136.92,NZL
+1009,30/05/2020 16:31:00,30/05/2020 16:54:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,220325.88,35136.92,NZL
+1009,30/05/2020 17:47:00,30/05/2020 17:55:00,Amend Request for Quotation Requester,Kim Passa,Requester Manager,220325.88,35136.92,NZL
+1009,31/05/2020 23:45:00,01/06/2020 00:09:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,220325.88,35136.92,NZL
+1009,01/06/2020 01:02:00,01/06/2020 01:11:00,Amend Request for Quotation Requester,Immanuel Karagianni,Requester Manager,220325.88,35136.92,NZL
+1009,01/06/2020 02:19:00,01/06/2020 02:46:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,220325.88,35136.92,NZL
+1009,01/06/2020 03:30:00,01/06/2020 03:40:00,Amend Request for Quotation Requester,Anne Olwada,Requester Manager,220325.88,35136.92,NZL
+1009,09/06/2020 01:58:00,09/06/2020 02:20:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,220325.88,35136.92,NZL
+1009,09/06/2020 18:22:00,09/06/2020 18:35:00,Amend Request for Quotation Requester Manager,Heinz Gutschmidt,Requester Manager,220325.88,35136.92,NZL
+1009,08/08/2020 02:49:00,08/08/2020 03:06:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,220325.88,35136.92,NZL
+1009,08/08/2020 12:40:00,08/08/2020 13:09:00,Send Request for Quotation to Supplier,Magdalena Predutta,Purchasing Agent,220325.88,35136.92,NZL
+1009,08/08/2020 13:44:00,08/08/2020 15:05:00,Create Quotation comparison Map,Magdalena Predutta,Purchasing Agent,220325.88,35136.92,NZL
+1009,08/08/2020 21:56:00,08/08/2020 22:26:00,Analyze Quotation comparison Map,Fjodor Kowalski,Requester,220325.88,35136.92,NZL
+1009,08/08/2020 22:26:00,08/08/2020 22:26:00,Choose best option,Esmana Liubiata,Requester,220325.88,35136.92,NZL
+1009,09/08/2020 06:33:00,09/08/2020 14:47:00,Settle conditions with supplier,Karel de Groot,Purchasing Agent,220325.88,35136.92,NZL
+1009,10/08/2020 21:32:00,10/08/2020 21:40:00,Create Purchase Order,Magdalena Predutta,Purchasing Agent,220325.88,35136.92,NZL
+1009,17/08/2020 08:27:00,17/08/2020 08:32:00,Confirm Purchase Order,Sean Manney,Supplier,220325.88,35136.92,NZL
+1009,23/08/2020 14:05:00,24/08/2020 04:57:00,Deliver Goods Services,Carmen Finacse,Supplier,220325.88,35136.92,NZL
+1009,24/08/2020 12:38:00,24/08/2020 12:39:00,Release Purchase Order,Nico Ojenbeer,Requester,220325.88,35136.92,NZL
+1009,25/08/2020 07:36:00,25/08/2020 07:37:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,220325.88,35136.92,NZL
+1009,30/08/2020 05:40:00,30/08/2020 05:40:00,Send invoice,Kiu Kan,Supplier,220325.88,35136.92,NZL
+1009,30/08/2020 19:46:00,30/08/2020 19:52:00,Release Supplier's Invoice,Pedro Alvares,Financial Manager,220325.88,35136.92,NZL
+1009,30/08/2020 19:52:00,30/08/2020 19:52:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,220325.88,35136.92,NZL
+1009,30/08/2020 20:09:00,30/08/2020 20:23:00,Pay invoice,Pedro Alvares,Financial Manager,220325.88,35136.92,NZL
+1104,09/06/2020 09:35:00,09/06/2020 10:32:00,Create Purchase Requisition,Alberto Duport,Requester,1267959.26,281105.38,JPN
+1104,10/06/2020 06:57:00,10/06/2020 07:03:00,Analyze Purchase Requisition,Heinz Gutschmidt,Requester Manager,1267959.26,281105.38,JPN
+1394,21/07/2020 07:24:00,21/07/2020 08:08:00,Create Purchase Requisition,Christian Francois,Requester,634248.27,84088.68,SGP
+1394,21/07/2020 08:31:00,21/07/2020 08:36:00,Create Request for Quotation Requester,Immanuel Karagianni,Requester,634248.27,84088.68,SGP
+1394,02/08/2020 04:12:00,02/08/2020 04:37:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,634248.27,84088.68,SGP
+1394,02/08/2020 05:32:00,02/08/2020 05:47:00,Amend Request for Quotation Requester,Clement Duchot,Requester Manager,634248.27,84088.68,SGP
+1394,14/08/2020 09:33:00,14/08/2020 10:05:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,634248.27,84088.68,SGP
+1394,14/08/2020 10:57:00,14/08/2020 11:10:00,Amend Request for Quotation Requester,Penn Osterwalder,Requester Manager,634248.27,84088.68,SGP
+1394,19/09/2020 13:18:00,19/09/2020 13:32:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,634248.27,84088.68,SGP
+1394,20/09/2020 17:40:00,20/09/2020 18:03:00,Send Request for Quotation to Supplier,Karel de Groot,Purchasing Agent,634248.27,84088.68,SGP
+1394,21/09/2020 04:26:00,21/09/2020 07:26:00,Create Quotation comparison Map,Francois de Perrier,Purchasing Agent,634248.27,84088.68,SGP
+1394,21/09/2020 14:06:00,21/09/2020 14:36:00,Analyze Quotation comparison Map,Immanuel Karagianni,Requester,634248.27,84088.68,SGP
+1394,21/09/2020 14:36:00,21/09/2020 14:36:00,Choose best option,Anne Olwada,Requester,634248.27,84088.68,SGP
+1394,21/09/2020 16:12:00,22/09/2020 00:59:00,Settle conditions with supplier,Magdalena Predutta,Purchasing Agent,634248.27,84088.68,SGP
+1394,22/09/2020 05:35:00,22/09/2020 05:44:00,Create Purchase Order,Karel de Groot,Purchasing Agent,634248.27,84088.68,SGP
+1394,23/09/2020 13:43:00,23/09/2020 14:13:00,Confirm Purchase Order,Carmen Finacse,Supplier,634248.27,84088.68,SGP
+1394,08/10/2020 18:16:00,09/10/2020 19:16:00,Deliver Goods Services,Carmen Finacse,Supplier,634248.27,84088.68,SGP
+1394,10/10/2020 03:25:00,10/10/2020 03:26:00,Release Purchase Order,Christian Francois,Requester,634248.27,84088.68,SGP
+1394,10/10/2020 20:14:00,10/10/2020 20:15:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,634248.27,84088.68,SGP
+1394,12/10/2020 20:17:00,12/10/2020 20:17:00,Send invoice,Esmeralda Clay,Supplier,634248.27,84088.68,SGP
+1394,13/10/2020 10:45:00,13/10/2020 10:48:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,634248.27,84088.68,SGP
+1394,13/10/2020 10:48:00,13/10/2020 10:48:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,634248.27,84088.68,SGP
+1394,13/10/2020 10:56:00,13/10/2020 11:07:00,Pay invoice,Pedro Alvares,Financial Manager,634248.27,84088.68,SGP
+284,08/02/2020 07:42:00,08/02/2020 07:54:00,Create Purchase Requisition,Immanuel Karagianni,Requester,263736.98,61788.04,AUS
+284,08/02/2020 11:35:00,08/02/2020 11:43:00,Create Request for Quotation Requester,Tesca Lobes,Requester,263736.98,61788.04,AUS
+284,09/02/2020 06:34:00,09/02/2020 06:51:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,263736.98,61788.04,AUS
+284,09/02/2020 07:42:00,09/02/2020 07:51:00,Amend Request for Quotation Requester,Kim Passa,Requester Manager,263736.98,61788.04,AUS
+284,14/02/2020 18:06:00,14/02/2020 18:18:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,263736.98,61788.04,AUS
+284,14/02/2020 22:24:00,14/02/2020 22:51:00,Send Request for Quotation to Supplier,Magdalena Predutta,Purchasing Agent,263736.98,61788.04,AUS
+284,14/02/2020 23:29:00,15/02/2020 03:42:00,Create Quotation comparison Map,Magdalena Predutta,Purchasing Agent,263736.98,61788.04,AUS
+284,15/02/2020 09:54:00,15/02/2020 10:12:00,Analyze Quotation comparison Map,Anna Kaufmann,Requester,263736.98,61788.04,AUS
+284,15/02/2020 10:12:00,15/02/2020 10:12:00,Choose best option,Kim Passa,Requester,263736.98,61788.04,AUS
+284,16/02/2020 15:59:00,17/02/2020 01:05:00,Settle conditions with supplier,Francois de Perrier,Purchasing Agent,263736.98,61788.04,AUS
+284,18/02/2020 04:18:00,18/02/2020 04:28:00,Create Purchase Order,Magdalena Predutta,Purchasing Agent,263736.98,61788.04,AUS
+284,18/02/2020 17:10:00,18/02/2020 17:21:00,Confirm Purchase Order,Esmeralda Clay,Supplier,263736.98,61788.04,AUS
+284,19/02/2020 11:08:00,19/02/2020 20:04:00,Deliver Goods Services,Kiu Kan,Supplier,263736.98,61788.04,AUS
+284,20/02/2020 04:05:00,20/02/2020 04:06:00,Release Purchase Order,Kim Passa,Requester,263736.98,61788.04,AUS
+284,20/02/2020 08:10:00,20/02/2020 08:11:00,Approve Purchase Order for payment,Francois de Perrier,Purchasing Agent,263736.98,61788.04,AUS
+284,21/02/2020 09:33:00,21/02/2020 09:33:00,Send invoice,Sean Manney,Supplier,263736.98,61788.04,AUS
+284,21/02/2020 23:54:00,21/02/2020 23:58:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,263736.98,61788.04,AUS
+284,21/02/2020 23:58:00,21/02/2020 23:58:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,263736.98,61788.04,AUS
+284,22/02/2020 00:55:00,22/02/2020 01:01:00,Pay invoice,Pedro Alvares,Financial Manager,263736.98,61788.04,AUS
+489,11/03/2020 09:19:00,11/03/2020 09:39:00,Create Purchase Requisition,Kim Passa,Requester,827021.36,96666.59,JPN
+489,12/03/2020 08:20:00,12/03/2020 08:27:00,Analyze Purchase Requisition,Francis Odell,Requester Manager,827021.36,96666.59,JPN
+489,12/03/2020 08:32:00,12/03/2020 08:34:00,Create Request for Quotation Requester Manager,Francis Odell,Requester Manager,827021.36,96666.59,JPN
+489,31/03/2020 09:58:00,31/03/2020 10:24:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,827021.36,96666.59,JPN
+489,31/03/2020 11:17:00,31/03/2020 11:25:00,Amend Request for Quotation Requester,Tesca Lobes,Requester Manager,827021.36,96666.59,JPN
+489,13/05/2020 03:04:00,13/05/2020 03:23:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,827021.36,96666.59,JPN
+489,13/05/2020 04:18:00,13/05/2020 04:27:00,Amend Request for Quotation Requester,Kim Passa,Requester Manager,827021.36,96666.59,JPN
+489,15/05/2020 03:11:00,15/05/2020 03:29:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,827021.36,96666.59,JPN
+489,15/05/2020 14:41:00,15/05/2020 14:58:00,Send Request for Quotation to Supplier,Karel de Groot,Purchasing Agent,827021.36,96666.59,JPN
+489,15/05/2020 15:38:00,15/05/2020 21:29:00,Create Quotation comparison Map,Magdalena Predutta,Purchasing Agent,827021.36,96666.59,JPN
+489,16/05/2020 03:54:00,16/05/2020 04:00:00,Analyze Quotation comparison Map,Kim Passa,Requester,827021.36,96666.59,JPN
+489,16/05/2020 04:00:00,16/05/2020 04:00:00,Choose best option,Nico Ojenbeer,Requester,827021.36,96666.59,JPN
+489,16/05/2020 05:44:00,16/05/2020 12:53:00,Settle conditions with supplier,Francois de Perrier,Purchasing Agent,827021.36,96666.59,JPN
+489,16/05/2020 14:36:00,16/05/2020 14:45:00,Create Purchase Order,Karel de Groot,Purchasing Agent,827021.36,96666.59,JPN
+489,17/05/2020 04:23:00,17/05/2020 04:48:00,Confirm Purchase Order,Karen Clarens,Supplier,827021.36,96666.59,JPN
+489,22/05/2020 23:05:00,24/05/2020 16:49:00,Deliver Goods Services,Carmen Finacse,Supplier,827021.36,96666.59,JPN
+489,25/05/2020 00:15:00,25/05/2020 00:16:00,Release Purchase Order,Clement Duchot,Requester,827021.36,96666.59,JPN
+489,25/05/2020 20:29:00,25/05/2020 20:30:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,827021.36,96666.59,JPN
+489,28/05/2020 01:35:00,28/05/2020 01:35:00,Send invoice,Carmen Finacse,Supplier,827021.36,96666.59,JPN
+489,28/05/2020 15:58:00,28/05/2020 16:03:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,827021.36,96666.59,JPN
+489,28/05/2020 16:03:00,28/05/2020 16:03:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,827021.36,96666.59,JPN
+489,28/05/2020 16:22:00,28/05/2020 16:36:00,Pay invoice,Pedro Alvares,Financial Manager,827021.36,96666.59,JPN
+283,08/02/2020 07:14:00,08/02/2020 07:43:00,Create Purchase Requisition,Fjodor Kowalski,Requester,72049.59,7248.7,SGP
+283,08/02/2020 20:43:00,08/02/2020 20:50:00,Analyze Purchase Requisition,Maris Freeman,Requester Manager,72049.59,7248.7,SGP
+283,08/02/2020 20:57:00,08/02/2020 20:59:00,Create Request for Quotation Requester Manager,Francis Odell,Requester Manager,72049.59,7248.7,SGP
+283,09/02/2020 15:47:00,09/02/2020 16:01:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,72049.59,7248.7,SGP
+282,08/02/2020 02:28:00,08/02/2020 03:23:00,Create Purchase Requisition,Anna Kaufmann,Requester,1401070.27,156170.44,NZL
+282,08/02/2020 08:49:00,08/02/2020 08:58:00,Create Request for Quotation Requester,Miu Hanwan,Requester,1401070.27,156170.44,NZL
+282,09/02/2020 07:50:00,09/02/2020 08:24:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,1401070.27,156170.44,NZL
+282,09/02/2020 09:18:00,09/02/2020 09:26:00,Amend Request for Quotation Requester,Miu Hanwan,Requester Manager,1401070.27,156170.44,NZL
+282,12/02/2020 07:50:00,12/02/2020 08:15:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,1401070.27,156170.44,NZL
+282,12/02/2020 10:47:00,12/02/2020 11:20:00,Send Request for Quotation to Supplier,Francois de Perrier,Purchasing Agent,1401070.27,156170.44,NZL
+282,13/02/2020 00:41:00,13/02/2020 02:28:00,Create Quotation comparison Map,Magdalena Predutta,Purchasing Agent,1401070.27,156170.44,NZL
+282,13/02/2020 08:54:00,13/02/2020 09:09:00,Analyze Quotation comparison Map,Elvira Lores,Requester,1401070.27,156170.44,NZL
+282,13/02/2020 09:09:00,13/02/2020 09:09:00,Choose best option,Fjodor Kowalski,Requester,1401070.27,156170.44,NZL
+282,13/02/2020 20:48:00,14/02/2020 04:12:00,Settle conditions with supplier,Francois de Perrier,Purchasing Agent,1401070.27,156170.44,NZL
+282,14/02/2020 06:28:00,14/02/2020 06:37:00,Create Purchase Order,Karel de Groot,Purchasing Agent,1401070.27,156170.44,NZL
+282,15/02/2020 09:10:00,15/02/2020 09:36:00,Confirm Purchase Order,Karen Clarens,Supplier,1401070.27,156170.44,NZL
+282,18/02/2020 17:30:00,20/02/2020 17:32:00,Deliver Goods Services,Esmeralda Clay,Supplier,1401070.27,156170.44,NZL
+282,21/02/2020 01:30:00,21/02/2020 01:31:00,Release Purchase Order,Miu Hanwan,Requester,1401070.27,156170.44,NZL
+282,21/02/2020 19:14:00,21/02/2020 19:15:00,Approve Purchase Order for payment,Francois de Perrier,Purchasing Agent,1401070.27,156170.44,NZL
+282,23/02/2020 02:48:00,23/02/2020 02:48:00,Send invoice,Karen Clarens,Supplier,1401070.27,156170.44,NZL
+282,23/02/2020 17:07:00,23/02/2020 17:13:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,1401070.27,156170.44,NZL
+282,23/02/2020 17:13:00,23/02/2020 17:13:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,1401070.27,156170.44,NZL
+282,23/02/2020 18:04:00,23/02/2020 18:17:00,Pay invoice,Karalda Nimwada,Financial Manager,1401070.27,156170.44,NZL
+288,08/02/2020 18:45:00,08/02/2020 19:27:00,Create Purchase Requisition,Penn Osterwalder,Requester,616130.37,88980.21,NZL
+288,08/02/2020 20:16:00,08/02/2020 20:25:00,Create Request for Quotation Requester,Tesca Lobes,Requester,616130.37,88980.21,NZL
+288,10/02/2020 00:57:00,10/02/2020 01:36:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,616130.37,88980.21,NZL
+288,10/02/2020 02:31:00,10/02/2020 02:44:00,Amend Request for Quotation Requester,Clement Duchot,Requester Manager,616130.37,88980.21,NZL
+288,13/02/2020 00:30:00,13/02/2020 00:41:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,616130.37,88980.21,NZL
+288,13/02/2020 18:15:00,13/02/2020 18:43:00,Send Request for Quotation to Supplier,Magdalena Predutta,Purchasing Agent,616130.37,88980.21,NZL
+288,13/02/2020 19:04:00,13/02/2020 21:17:00,Create Quotation comparison Map,Magdalena Predutta,Purchasing Agent,616130.37,88980.21,NZL
+288,14/02/2020 04:14:00,14/02/2020 04:29:00,Analyze Quotation comparison Map,Penn Osterwalder,Requester,616130.37,88980.21,NZL
+288,14/02/2020 04:29:00,14/02/2020 04:29:00,Choose best option,Tesca Lobes,Requester,616130.37,88980.21,NZL
+288,14/02/2020 07:17:00,14/02/2020 14:06:00,Settle conditions with supplier,Karel de Groot,Purchasing Agent,616130.37,88980.21,NZL
+288,14/02/2020 18:48:00,14/02/2020 18:59:00,Create Purchase Order,Francois de Perrier,Purchasing Agent,616130.37,88980.21,NZL
+288,16/02/2020 00:02:00,16/02/2020 00:14:00,Confirm Purchase Order,Kiu Kan,Supplier,616130.37,88980.21,NZL
+288,17/02/2020 15:29:00,18/02/2020 09:40:00,Deliver Goods Services,Carmen Finacse,Supplier,616130.37,88980.21,NZL
+288,18/02/2020 17:11:00,18/02/2020 17:12:00,Release Purchase Order,Penn Osterwalder,Requester,616130.37,88980.21,NZL
+288,19/02/2020 00:45:00,19/02/2020 00:46:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,616130.37,88980.21,NZL
+288,22/02/2020 09:59:00,22/02/2020 09:59:00,Send invoice,Karen Clarens,Supplier,616130.37,88980.21,NZL
+288,23/02/2020 00:08:00,23/02/2020 00:13:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,616130.37,88980.21,NZL
+288,23/02/2020 00:13:00,23/02/2020 00:13:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,616130.37,88980.21,NZL
+288,23/02/2020 01:12:00,23/02/2020 01:21:00,Pay invoice,Karalda Nimwada,Financial Manager,616130.37,88980.21,NZL
+286,08/02/2020 14:06:00,08/02/2020 14:14:00,Create Purchase Requisition,Alberto Duport,Requester,955793.28,189931.55,SGP
+286,08/02/2020 19:22:00,08/02/2020 19:36:00,Create Request for Quotation Requester,Miu Hanwan,Requester,955793.28,189931.55,SGP
+286,08/02/2020 21:23:00,08/02/2020 21:49:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,955793.28,189931.55,SGP
+286,08/02/2020 22:44:00,08/02/2020 22:57:00,Amend Request for Quotation Requester,Christian Francois,Requester Manager,955793.28,189931.55,SGP
+286,09/02/2020 20:35:00,09/02/2020 21:00:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,955793.28,189931.55,SGP
+286,10/02/2020 03:30:00,10/02/2020 03:50:00,Send Request for Quotation to Supplier,Karel de Groot,Purchasing Agent,955793.28,189931.55,SGP
+286,10/02/2020 09:04:00,10/02/2020 14:09:00,Create Quotation comparison Map,Magdalena Predutta,Purchasing Agent,955793.28,189931.55,SGP
+286,10/02/2020 20:33:00,10/02/2020 21:06:00,Analyze Quotation comparison Map,Nico Ojenbeer,Requester,955793.28,189931.55,SGP
+286,10/02/2020 21:06:00,10/02/2020 21:06:00,Choose best option,Anna Kaufmann,Requester,955793.28,189931.55,SGP
+286,11/02/2020 23:57:00,12/02/2020 05:54:00,Settle conditions with supplier,Magdalena Predutta,Purchasing Agent,955793.28,189931.55,SGP
+286,12/02/2020 07:43:00,12/02/2020 07:50:00,Create Purchase Order,Karel de Groot,Purchasing Agent,955793.28,189931.55,SGP
+286,13/02/2020 17:10:00,13/02/2020 17:25:00,Confirm Purchase Order,Kiu Kan,Supplier,955793.28,189931.55,SGP
+286,15/02/2020 12:27:00,17/02/2020 05:07:00,Deliver Goods Services,Esmeralda Clay,Supplier,955793.28,189931.55,SGP
+286,17/02/2020 12:47:00,17/02/2020 12:48:00,Release Purchase Order,Immanuel Karagianni,Requester,955793.28,189931.55,SGP
+286,18/02/2020 03:47:00,18/02/2020 12:30:00,Settle dispute with supplier Purchasing Agent,Karel de Groot,Purchasing Agent,955793.28,189931.55,SGP
+286,18/02/2020 19:44:00,18/02/2020 19:45:00,Release Purchase Order,Christian Francois,Requester,955793.28,189931.55,SGP
+286,19/02/2020 08:23:00,19/02/2020 08:24:00,Approve Purchase Order for payment,Francois de Perrier,Purchasing Agent,955793.28,189931.55,SGP
+286,21/02/2020 08:57:00,21/02/2020 08:57:00,Send invoice,Sean Manney,Supplier,955793.28,189931.55,SGP
+286,21/02/2020 23:16:00,21/02/2020 23:19:00,Release Supplier's Invoice,Pedro Alvares,Financial Manager,955793.28,189931.55,SGP
+286,21/02/2020 23:19:00,21/02/2020 23:19:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,955793.28,189931.55,SGP
+286,22/02/2020 00:20:00,22/02/2020 00:31:00,Pay invoice,Pedro Alvares,Financial Manager,955793.28,189931.55,SGP
+287,08/02/2020 18:38:00,08/02/2020 19:13:00,Create Purchase Requisition,Esmana Liubiata,Requester,1004746.16,239513.79,SGP
+287,09/02/2020 08:41:00,09/02/2020 08:48:00,Analyze Purchase Requisition,Heinz Gutschmidt,Requester Manager,1004746.16,239513.79,SGP
+287,09/02/2020 20:27:00,09/02/2020 20:50:00,Amend Purchase Requisition,Miu Hanwan,Requester,1004746.16,239513.79,SGP
+287,10/02/2020 02:54:00,10/02/2020 03:06:00,Create Request for Quotation Requester,Anna Kaufmann,Requester,1004746.16,239513.79,SGP
+287,23/02/2020 06:14:00,23/02/2020 06:37:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,1004746.16,239513.79,SGP
+1388,19/07/2020 17:59:00,19/07/2020 18:48:00,Create Purchase Requisition,Miu Hanwan,Requester,376612.72,13150.35,JPN
+1388,20/07/2020 15:25:00,20/07/2020 15:31:00,Analyze Purchase Requisition,Heinz Gutschmidt,Requester Manager,376612.72,13150.35,JPN
+1388,20/07/2020 15:37:00,20/07/2020 15:38:00,Create Request for Quotation Requester Manager,Heinz Gutschmidt,Requester Manager,376612.72,13150.35,JPN
+1388,28/08/2020 00:20:00,28/08/2020 00:43:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,376612.72,13150.35,JPN
+1388,28/08/2020 16:40:00,28/08/2020 16:54:00,Amend Request for Quotation Requester Manager,Francis Odell,Requester Manager,376612.72,13150.35,JPN
+1388,08/09/2020 09:11:00,08/09/2020 09:49:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,376612.72,13150.35,JPN
+1388,09/09/2020 03:42:00,09/09/2020 04:03:00,Send Request for Quotation to Supplier,Karel de Groot,Purchasing Agent,376612.72,13150.35,JPN
+1388,09/09/2020 08:51:00,09/09/2020 14:08:00,Create Quotation comparison Map,Magdalena Predutta,Purchasing Agent,376612.72,13150.35,JPN
+1388,09/09/2020 20:36:00,09/09/2020 21:04:00,Analyze Quotation comparison Map,Anne Olwada,Requester,376612.72,13150.35,JPN
+1388,09/09/2020 21:04:00,09/09/2020 21:04:00,Choose best option,Penn Osterwalder,Requester,376612.72,13150.35,JPN
+1388,10/09/2020 04:24:00,10/09/2020 10:09:00,Settle conditions with supplier,Magdalena Predutta,Purchasing Agent,376612.72,13150.35,JPN
+1388,10/09/2020 12:25:00,10/09/2020 12:32:00,Create Purchase Order,Magdalena Predutta,Purchasing Agent,376612.72,13150.35,JPN
+1388,11/09/2020 19:01:00,11/09/2020 19:08:00,Confirm Purchase Order,Karen Clarens,Supplier,376612.72,13150.35,JPN
+1388,23/09/2020 14:52:00,24/09/2020 23:48:00,Deliver Goods Services,Kiu Kan,Supplier,376612.72,13150.35,JPN
+1388,25/09/2020 07:16:00,25/09/2020 07:17:00,Release Purchase Order,Kim Passa,Requester,376612.72,13150.35,JPN
+1388,25/09/2020 16:15:00,26/09/2020 01:12:00,Settle dispute with supplier Purchasing Agent,Francois de Perrier,Purchasing Agent,376612.72,13150.35,JPN
+1388,26/09/2020 08:27:00,26/09/2020 08:28:00,Release Purchase Order,Esmana Liubiata,Requester,376612.72,13150.35,JPN
+1388,26/09/2020 14:23:00,26/09/2020 14:24:00,Approve Purchase Order for payment,Francois de Perrier,Purchasing Agent,376612.72,13150.35,JPN
+1388,07/10/2020 11:37:00,07/10/2020 11:37:00,Send invoice,Karen Clarens,Supplier,376612.72,13150.35,JPN
+1388,08/10/2020 01:58:00,08/10/2020 02:03:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,376612.72,13150.35,JPN
+1388,08/10/2020 02:03:00,08/10/2020 02:03:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,376612.72,13150.35,JPN
+1388,08/10/2020 02:07:00,08/10/2020 02:15:00,Pay invoice,Karalda Nimwada,Financial Manager,376612.72,13150.35,JPN
+1387,19/07/2020 11:08:00,19/07/2020 11:24:00,Create Purchase Requisition,Tesca Lobes,Requester,1312494.84,239758.77,NZL
+1387,20/07/2020 09:17:00,20/07/2020 09:23:00,Analyze Purchase Requisition,Maris Freeman,Requester Manager,1312494.84,239758.77,NZL
+1386,19/07/2020 06:40:00,19/07/2020 07:29:00,Create Purchase Requisition,Anna Kaufmann,Requester,1002138.26,97584.5,SGP
+1386,19/07/2020 17:25:00,19/07/2020 17:33:00,Analyze Purchase Requisition,Francis Odell,Requester Manager,1002138.26,97584.5,SGP
+1386,19/07/2020 17:37:00,19/07/2020 17:39:00,Create Request for Quotation Requester Manager,Francis Odell,Requester Manager,1002138.26,97584.5,SGP
+1386,22/07/2020 04:29:00,22/07/2020 04:40:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,1002138.26,97584.5,SGP
+1287,04/07/2020 13:39:00,04/07/2020 14:25:00,Create Purchase Requisition,Fjodor Kowalski,Requester,1059926.39,192217.01,JPN
+1287,05/07/2020 02:33:00,05/07/2020 02:40:00,Analyze Purchase Requisition,Heinz Gutschmidt,Requester Manager,1059926.39,192217.01,JPN
+1287,05/07/2020 02:45:00,05/07/2020 02:47:00,Create Request for Quotation Requester Manager,Heinz Gutschmidt,Requester Manager,1059926.39,192217.01,JPN
+1287,05/07/2020 10:18:00,05/07/2020 10:34:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,1059926.39,192217.01,JPN
+1011,28/05/2020 12:20:00,28/05/2020 12:59:00,Create Purchase Requisition,Fjodor Kowalski,Requester,1034407.6,87568.75,NZL
+1011,28/05/2020 18:51:00,28/05/2020 19:04:00,Create Request for Quotation Requester,Miu Hanwan,Requester,1034407.6,87568.75,NZL
+1011,29/05/2020 23:21:00,29/05/2020 23:35:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,1034407.6,87568.75,NZL
+1011,30/05/2020 00:24:00,30/05/2020 00:31:00,Amend Request for Quotation Requester,Miu Hanwan,Requester Manager,1034407.6,87568.75,NZL
+1011,01/06/2020 12:57:00,01/06/2020 13:16:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,1034407.6,87568.75,NZL
+1011,01/06/2020 13:57:00,01/06/2020 14:02:00,Amend Request for Quotation Requester,Fjodor Kowalski,Requester Manager,1034407.6,87568.75,NZL
+1011,18/06/2020 16:31:00,18/06/2020 16:56:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,1034407.6,87568.75,NZL
+1011,18/06/2020 17:49:00,18/06/2020 17:58:00,Amend Request for Quotation Requester,Christian Francois,Requester Manager,1034407.6,87568.75,NZL
+1011,21/06/2020 19:40:00,21/06/2020 20:08:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,1034407.6,87568.75,NZL
+1011,21/06/2020 20:56:00,21/06/2020 21:05:00,Amend Request for Quotation Requester,Esmana Liubiata,Requester Manager,1034407.6,87568.75,NZL
+1011,08/07/2020 23:54:00,09/07/2020 00:05:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,1034407.6,87568.75,NZL
+1011,09/07/2020 00:58:00,09/07/2020 01:06:00,Amend Request for Quotation Requester,Clement Duchot,Requester Manager,1034407.6,87568.75,NZL
+1011,18/08/2020 17:46:00,18/08/2020 18:10:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,1034407.6,87568.75,NZL
+1011,18/08/2020 19:00:00,18/08/2020 19:06:00,Amend Request for Quotation Requester,Nico Ojenbeer,Requester Manager,1034407.6,87568.75,NZL
+1011,22/08/2020 08:21:00,22/08/2020 08:52:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,1034407.6,87568.75,NZL
+1011,22/08/2020 15:46:00,22/08/2020 16:15:00,Send Request for Quotation to Supplier,Francois de Perrier,Purchasing Agent,1034407.6,87568.75,NZL
+1011,22/08/2020 16:55:00,22/08/2020 21:06:00,Create Quotation comparison Map,Magdalena Predutta,Purchasing Agent,1034407.6,87568.75,NZL
+1011,23/08/2020 03:55:00,23/08/2020 04:08:00,Analyze Quotation comparison Map,Immanuel Karagianni,Requester,1034407.6,87568.75,NZL
+1011,23/08/2020 04:08:00,23/08/2020 04:08:00,Choose best option,Christian Francois,Requester,1034407.6,87568.75,NZL
+1011,23/08/2020 08:52:00,23/08/2020 23:25:00,Settle conditions with supplier,Karel de Groot,Purchasing Agent,1034407.6,87568.75,NZL
+1011,24/08/2020 01:25:00,24/08/2020 01:32:00,Create Purchase Order,Magdalena Predutta,Purchasing Agent,1034407.6,87568.75,NZL
+1011,27/08/2020 05:53:00,27/08/2020 06:00:00,Confirm Purchase Order,Carmen Finacse,Supplier,1034407.6,87568.75,NZL
+1011,27/08/2020 19:34:00,29/08/2020 18:00:00,Deliver Goods Services,Kiu Kan,Supplier,1034407.6,87568.75,NZL
+1011,30/08/2020 01:27:00,30/08/2020 01:28:00,Release Purchase Order,Tesca Lobes,Requester,1034407.6,87568.75,NZL
+1011,01/09/2020 01:09:00,01/09/2020 01:10:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,1034407.6,87568.75,NZL
+1011,03/09/2020 05:14:00,03/09/2020 05:14:00,Send invoice,Sean Manney,Supplier,1034407.6,87568.75,NZL
+1011,03/09/2020 19:35:00,03/09/2020 19:38:00,Release Supplier's Invoice,Pedro Alvares,Financial Manager,1034407.6,87568.75,NZL
+1011,03/09/2020 19:38:00,03/09/2020 19:38:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,1034407.6,87568.75,NZL
+1011,03/09/2020 20:04:00,03/09/2020 20:13:00,Pay invoice,Karalda Nimwada,Financial Manager,1034407.6,87568.75,NZL
+1282,04/07/2020 01:48:00,04/07/2020 02:18:00,Create Purchase Requisition,Alberto Duport,Requester,66754.08,5519.03,SGP
+1282,04/07/2020 16:05:00,04/07/2020 16:09:00,Analyze Purchase Requisition,Heinz Gutschmidt,Requester Manager,66754.08,5519.03,SGP
+1284,04/07/2020 05:38:00,04/07/2020 06:16:00,Create Purchase Requisition,Christian Francois,Requester,1355823.73,281107.97,SGP
+1284,04/07/2020 10:30:00,04/07/2020 10:40:00,Create Request for Quotation Requester,Fjodor Kowalski,Requester,1355823.73,281107.97,SGP
+1284,14/08/2020 08:00:00,14/08/2020 08:20:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,1355823.73,281107.97,SGP
+1284,14/08/2020 09:07:00,14/08/2020 09:21:00,Amend Request for Quotation Requester,Clement Duchot,Requester Manager,1355823.73,281107.97,SGP
+1284,24/08/2020 00:43:00,24/08/2020 01:15:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,1355823.73,281107.97,SGP
+1284,24/08/2020 02:03:00,24/08/2020 02:09:00,Amend Request for Quotation Requester,Anne Olwada,Requester Manager,1355823.73,281107.97,SGP
+1284,06/09/2020 23:31:00,06/09/2020 23:58:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,1355823.73,281107.97,SGP
+1284,07/09/2020 10:45:00,07/09/2020 11:02:00,Send Request for Quotation to Supplier,Magdalena Predutta,Purchasing Agent,1355823.73,281107.97,SGP
+1284,07/09/2020 11:37:00,07/09/2020 12:28:00,Create Quotation comparison Map,Karel de Groot,Purchasing Agent,1355823.73,281107.97,SGP
+1284,07/09/2020 19:35:00,07/09/2020 19:44:00,Analyze Quotation comparison Map,Fjodor Kowalski,Requester,1355823.73,281107.97,SGP
+1284,07/09/2020 19:44:00,07/09/2020 19:44:00,Choose best option,Esmana Liubiata,Requester,1355823.73,281107.97,SGP
+1284,08/09/2020 15:57:00,09/09/2020 03:42:00,Settle conditions with supplier,Karel de Groot,Purchasing Agent,1355823.73,281107.97,SGP
+1284,09/09/2020 15:29:00,09/09/2020 15:39:00,Create Purchase Order,Magdalena Predutta,Purchasing Agent,1355823.73,281107.97,SGP
+1284,10/09/2020 10:34:00,10/09/2020 11:03:00,Confirm Purchase Order,Carmen Finacse,Supplier,1355823.73,281107.97,SGP
+1284,06/10/2020 17:08:00,08/10/2020 06:20:00,Deliver Goods Services,Kiu Kan,Supplier,1355823.73,281107.97,SGP
+1284,08/10/2020 14:05:00,08/10/2020 14:06:00,Release Purchase Order,Anna Kaufmann,Requester,1355823.73,281107.97,SGP
+1284,09/10/2020 14:50:00,09/10/2020 14:51:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,1355823.73,281107.97,SGP
+1284,13/10/2020 22:44:00,13/10/2020 22:44:00,Send invoice,Carmen Finacse,Supplier,1355823.73,281107.97,SGP
+1284,14/10/2020 13:06:00,14/10/2020 13:10:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,1355823.73,281107.97,SGP
+1284,14/10/2020 13:10:00,14/10/2020 13:10:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,1355823.73,281107.97,SGP
+1284,14/10/2020 13:53:00,14/10/2020 14:07:00,Pay invoice,Pedro Alvares,Financial Manager,1355823.73,281107.97,SGP
+270,06/02/2020 20:48:00,06/02/2020 20:57:00,Create Purchase Requisition,Tesca Lobes,Requester,1002790.87,101142.16,NZL
+270,07/02/2020 00:01:00,07/02/2020 00:12:00,Create Request for Quotation Requester,Fjodor Kowalski,Requester,1002790.87,101142.16,NZL
+270,10/02/2020 02:48:00,10/02/2020 03:04:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,1002790.87,101142.16,NZL
+270,10/02/2020 14:51:00,10/02/2020 15:09:00,Send Request for Quotation to Supplier,Francois de Perrier,Purchasing Agent,1002790.87,101142.16,NZL
+270,11/02/2020 03:23:00,11/02/2020 04:59:00,Create Quotation comparison Map,Magdalena Predutta,Purchasing Agent,1002790.87,101142.16,NZL
+270,11/02/2020 11:45:00,11/02/2020 11:54:00,Analyze Quotation comparison Map,Miu Hanwan,Requester,1002790.87,101142.16,NZL
+270,11/02/2020 11:54:00,11/02/2020 11:54:00,Choose best option,Kim Passa,Requester,1002790.87,101142.16,NZL
+270,12/02/2020 01:06:00,12/02/2020 05:20:00,Settle conditions with supplier,Karel de Groot,Purchasing Agent,1002790.87,101142.16,NZL
+270,13/02/2020 17:55:00,13/02/2020 18:05:00,Create Purchase Order,Magdalena Predutta,Purchasing Agent,1002790.87,101142.16,NZL
+270,14/02/2020 09:46:00,14/02/2020 10:12:00,Confirm Purchase Order,Karen Clarens,Supplier,1002790.87,101142.16,NZL
+270,17/02/2020 05:07:00,18/02/2020 17:10:00,Deliver Goods Services,Esmeralda Clay,Supplier,1002790.87,101142.16,NZL
+270,19/02/2020 00:56:00,19/02/2020 00:57:00,Release Purchase Order,Christian Francois,Requester,1002790.87,101142.16,NZL
+270,19/02/2020 12:31:00,19/02/2020 12:32:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,1002790.87,101142.16,NZL
+270,20/02/2020 18:18:00,20/02/2020 18:18:00,Send invoice,Esmeralda Clay,Supplier,1002790.87,101142.16,NZL
+270,21/02/2020 08:28:00,21/02/2020 08:31:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,1002790.87,101142.16,NZL
+270,21/02/2020 08:31:00,21/02/2020 08:31:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,1002790.87,101142.16,NZL
+270,21/02/2020 09:33:00,21/02/2020 09:45:00,Pay invoice,Pedro Alvares,Financial Manager,1002790.87,101142.16,NZL
+272,07/02/2020 02:48:00,07/02/2020 03:26:00,Create Purchase Requisition,Immanuel Karagianni,Requester,590149.0,1611.54,NZL
+272,07/02/2020 04:30:00,07/02/2020 04:41:00,Create Request for Quotation Requester,Esmana Liubiata,Requester,590149.0,1611.54,NZL
+272,09/02/2020 10:45:00,09/02/2020 11:08:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,590149.0,1611.54,NZL
+272,10/02/2020 03:04:00,10/02/2020 03:30:00,Send Request for Quotation to Supplier,Karel de Groot,Purchasing Agent,590149.0,1611.54,NZL
+272,10/02/2020 03:50:00,10/02/2020 09:07:00,Create Quotation comparison Map,Karel de Groot,Purchasing Agent,590149.0,1611.54,NZL
+272,10/02/2020 15:36:00,10/02/2020 16:09:00,Analyze Quotation comparison Map,Clement Duchot,Requester,590149.0,1611.54,NZL
+272,10/02/2020 16:09:00,10/02/2020 16:09:00,Choose best option,Anna Kaufmann,Requester,590149.0,1611.54,NZL
+272,11/02/2020 08:23:00,11/02/2020 17:17:00,Settle conditions with supplier,Magdalena Predutta,Purchasing Agent,590149.0,1611.54,NZL
+272,12/02/2020 18:19:00,12/02/2020 18:31:00,Create Purchase Order,Magdalena Predutta,Purchasing Agent,590149.0,1611.54,NZL
+272,13/02/2020 16:53:00,13/02/2020 17:10:00,Confirm Purchase Order,Kiu Kan,Supplier,590149.0,1611.54,NZL
+272,15/02/2020 21:46:00,17/02/2020 00:02:00,Deliver Goods Services,Karen Clarens,Supplier,590149.0,1611.54,NZL
+272,17/02/2020 07:49:00,17/02/2020 07:50:00,Release Purchase Order,Penn Osterwalder,Requester,590149.0,1611.54,NZL
+272,17/02/2020 13:28:00,17/02/2020 13:29:00,Approve Purchase Order for payment,Francois de Perrier,Purchasing Agent,590149.0,1611.54,NZL
+272,18/02/2020 04:02:00,18/02/2020 04:02:00,Send invoice,Sean Manney,Supplier,590149.0,1611.54,NZL
+272,18/02/2020 18:18:00,18/02/2020 18:21:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,590149.0,1611.54,NZL
+272,18/02/2020 18:21:00,18/02/2020 18:21:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,590149.0,1611.54,NZL
+272,18/02/2020 19:07:00,18/02/2020 19:14:00,Pay invoice,Pedro Alvares,Financial Manager,590149.0,1611.54,NZL
+1380,18/07/2020 04:06:00,18/07/2020 04:34:00,Create Purchase Requisition,Anne Olwada,Requester,1226616.53,156142.81,AUS
+1380,18/07/2020 05:03:00,18/07/2020 05:12:00,Create Request for Quotation Requester,Anne Olwada,Requester,1226616.53,156142.81,AUS
+1380,27/07/2020 21:55:00,27/07/2020 22:16:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,1226616.53,156142.81,AUS
+273,07/02/2020 03:23:00,07/02/2020 03:53:00,Create Purchase Requisition,Miu Hanwan,Requester,1019498.17,101163.23,JPN
+273,07/02/2020 17:21:00,07/02/2020 17:30:00,Analyze Purchase Requisition,Maris Freeman,Requester Manager,1019498.17,101163.23,JPN
+273,07/02/2020 17:34:00,07/02/2020 17:37:00,Create Request for Quotation Requester Manager,Maris Freeman,Requester Manager,1019498.17,101163.23,JPN
+273,08/02/2020 04:05:00,08/02/2020 04:21:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,1019498.17,101163.23,JPN
+273,08/02/2020 05:09:00,08/02/2020 05:19:00,Amend Request for Quotation Requester,Anna Kaufmann,Requester Manager,1019498.17,101163.23,JPN
+273,09/02/2020 21:34:00,09/02/2020 21:53:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,1019498.17,101163.23,JPN
+273,10/02/2020 04:38:00,10/02/2020 04:57:00,Send Request for Quotation to Supplier,Francois de Perrier,Purchasing Agent,1019498.17,101163.23,JPN
+273,10/02/2020 09:07:00,10/02/2020 09:48:00,Create Quotation comparison Map,Karel de Groot,Purchasing Agent,1019498.17,101163.23,JPN
+273,10/02/2020 16:40:00,10/02/2020 16:54:00,Analyze Quotation comparison Map,Clement Duchot,Requester,1019498.17,101163.23,JPN
+273,10/02/2020 16:54:00,10/02/2020 16:54:00,Choose best option,Fjodor Kowalski,Requester,1019498.17,101163.23,JPN
+273,11/02/2020 22:23:00,12/02/2020 03:54:00,Settle conditions with supplier,Francois de Perrier,Purchasing Agent,1019498.17,101163.23,JPN
+273,12/02/2020 08:15:00,12/02/2020 08:25:00,Create Purchase Order,Karel de Groot,Purchasing Agent,1019498.17,101163.23,JPN
+273,13/02/2020 17:25:00,13/02/2020 17:56:00,Confirm Purchase Order,Kiu Kan,Supplier,1019498.17,101163.23,JPN
+273,14/02/2020 09:30:00,15/02/2020 12:08:00,Deliver Goods Services,Esmeralda Clay,Supplier,1019498.17,101163.23,JPN
+273,15/02/2020 20:10:00,15/02/2020 20:11:00,Release Purchase Order,Elvira Lores,Requester,1019498.17,101163.23,JPN
+273,16/02/2020 05:37:00,16/02/2020 05:38:00,Approve Purchase Order for payment,Karel de Groot,Purchasing Agent,1019498.17,101163.23,JPN
+273,17/02/2020 14:59:00,17/02/2020 14:59:00,Send invoice,Carmen Finacse,Supplier,1019498.17,101163.23,JPN
+273,18/02/2020 05:24:00,18/02/2020 05:28:00,Release Supplier's Invoice,Pedro Alvares,Financial Manager,1019498.17,101163.23,JPN
+273,18/02/2020 05:28:00,18/02/2020 05:28:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,1019498.17,101163.23,JPN
+273,18/02/2020 06:30:00,18/02/2020 06:35:00,Pay invoice,Pedro Alvares,Financial Manager,1019498.17,101163.23,JPN
+1909,07/10/2020 07:40:00,07/10/2020 07:53:00,Create Purchase Requisition,Immanuel Karagianni,Requester,1020825.93,114444.02,NZL
+1909,08/10/2020 08:13:00,08/10/2020 08:21:00,Analyze Purchase Requisition,Maris Freeman,Requester Manager,1020825.93,114444.02,NZL
+1909,08/10/2020 08:25:00,08/10/2020 08:27:00,Create Request for Quotation Requester Manager,Heinz Gutschmidt,Requester Manager,1020825.93,114444.02,NZL
+1909,14/10/2020 00:14:00,14/10/2020 00:44:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,1020825.93,114444.02,NZL
+275,07/02/2020 06:02:00,07/02/2020 06:55:00,Create Purchase Requisition,Immanuel Karagianni,Requester,426810.01,54758.02,SGP
+275,07/02/2020 10:54:00,07/02/2020 11:04:00,Create Request for Quotation Requester,Miu Hanwan,Requester,426810.01,54758.02,SGP
+275,09/02/2020 08:24:00,09/02/2020 08:50:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,426810.01,54758.02,SGP
+275,09/02/2020 09:38:00,09/02/2020 09:45:00,Amend Request for Quotation Requester,Tesca Lobes,Requester Manager,426810.01,54758.02,SGP
+275,10/02/2020 14:09:00,10/02/2020 14:22:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,426810.01,54758.02,SGP
+275,12/02/2020 05:20:00,12/02/2020 05:29:00,Send Request for Quotation to Supplier,Karel de Groot,Purchasing Agent,426810.01,54758.02,SGP
+275,12/02/2020 13:06:00,12/02/2020 18:19:00,Create Quotation comparison Map,Magdalena Predutta,Purchasing Agent,426810.01,54758.02,SGP
+275,13/02/2020 00:45:00,13/02/2020 01:00:00,Analyze Quotation comparison Map,Fjodor Kowalski,Requester,426810.01,54758.02,SGP
+275,13/02/2020 01:00:00,13/02/2020 01:00:00,Choose best option,Kim Passa,Requester,426810.01,54758.02,SGP
+275,13/02/2020 04:39:00,13/02/2020 18:28:00,Settle conditions with supplier,Karel de Groot,Purchasing Agent,426810.01,54758.02,SGP
+275,13/02/2020 20:39:00,13/02/2020 20:48:00,Create Purchase Order,Francois de Perrier,Purchasing Agent,426810.01,54758.02,SGP
+275,14/02/2020 08:42:00,14/02/2020 09:14:00,Confirm Purchase Order,Karen Clarens,Supplier,426810.01,54758.02,SGP
+275,18/02/2020 09:40:00,20/02/2020 10:44:00,Deliver Goods Services,Carmen Finacse,Supplier,426810.01,54758.02,SGP
+275,20/02/2020 18:33:00,20/02/2020 18:34:00,Release Purchase Order,Christian Francois,Requester,426810.01,54758.02,SGP
+275,21/02/2020 07:59:00,21/02/2020 08:00:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,426810.01,54758.02,SGP
+275,22/02/2020 09:59:00,22/02/2020 09:59:00,Send invoice,Karen Clarens,Supplier,426810.01,54758.02,SGP
+275,23/02/2020 00:29:00,23/02/2020 00:31:00,Release Supplier's Invoice,Pedro Alvares,Financial Manager,426810.01,54758.02,SGP
+275,23/02/2020 00:31:00,23/02/2020 00:31:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,426810.01,54758.02,SGP
+275,23/02/2020 01:09:00,23/02/2020 01:18:00,Pay invoice,Pedro Alvares,Financial Manager,426810.01,54758.02,SGP
+278,07/02/2020 14:53:00,07/02/2020 15:34:00,Create Purchase Requisition,Elvira Lores,Requester,284144.57,16260.09,JPN
+278,08/02/2020 14:38:00,08/02/2020 14:45:00,Analyze Purchase Requisition,Maris Freeman,Requester Manager,284144.57,16260.09,JPN
+278,08/02/2020 14:51:00,08/02/2020 14:54:00,Create Request for Quotation Requester Manager,Francis Odell,Requester Manager,284144.57,16260.09,JPN
+278,09/02/2020 23:11:00,09/02/2020 23:47:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,284144.57,16260.09,JPN
+278,10/02/2020 00:35:00,10/02/2020 00:46:00,Amend Request for Quotation Requester,Fjodor Kowalski,Requester Manager,284144.57,16260.09,JPN
+278,10/02/2020 04:53:00,10/02/2020 05:12:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,284144.57,16260.09,JPN
+278,10/02/2020 09:48:00,10/02/2020 10:17:00,Send Request for Quotation to Supplier,Karel de Groot,Purchasing Agent,284144.57,16260.09,JPN
+278,10/02/2020 14:22:00,10/02/2020 17:41:00,Create Quotation comparison Map,Magdalena Predutta,Purchasing Agent,284144.57,16260.09,JPN
+278,11/02/2020 00:36:00,11/02/2020 00:52:00,Analyze Quotation comparison Map,Nico Ojenbeer,Requester,284144.57,16260.09,JPN
+278,11/02/2020 00:52:00,11/02/2020 00:52:00,Choose best option,Penn Osterwalder,Requester,284144.57,16260.09,JPN
+278,11/02/2020 08:51:00,11/02/2020 16:25:00,Settle conditions with supplier,Karel de Groot,Purchasing Agent,284144.57,16260.09,JPN
+278,11/02/2020 17:08:00,11/02/2020 17:16:00,Create Purchase Order,Karel de Groot,Purchasing Agent,284144.57,16260.09,JPN
+278,11/02/2020 22:04:00,11/02/2020 22:32:00,Confirm Purchase Order,Esmeralda Clay,Supplier,284144.57,16260.09,JPN
+278,12/02/2020 09:47:00,12/02/2020 19:52:00,Deliver Goods Services,Kiu Kan,Supplier,284144.57,16260.09,JPN
+278,13/02/2020 03:37:00,13/02/2020 03:38:00,Release Purchase Order,Esmana Liubiata,Requester,284144.57,16260.09,JPN
+278,13/02/2020 18:05:00,13/02/2020 18:06:00,Approve Purchase Order for payment,Magdalena Predutta,Purchasing Agent,284144.57,16260.09,JPN
+278,14/02/2020 08:42:00,14/02/2020 08:42:00,Send invoice,Karen Clarens,Supplier,284144.57,16260.09,JPN
+278,14/02/2020 23:01:00,14/02/2020 23:06:00,Release Supplier's Invoice,Pedro Alvares,Financial Manager,284144.57,16260.09,JPN
+278,14/02/2020 23:06:00,14/02/2020 23:06:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,284144.57,16260.09,JPN
+278,14/02/2020 23:34:00,14/02/2020 23:40:00,Pay invoice,Karalda Nimwada,Financial Manager,284144.57,16260.09,JPN
+279,07/02/2020 16:01:00,07/02/2020 16:56:00,Create Purchase Requisition,Esmana Liubiata,Requester,948131.35,67182.64,JPN
+279,08/02/2020 00:21:00,08/02/2020 00:28:00,Create Request for Quotation Requester,Esmana Liubiata,Requester,948131.35,67182.64,JPN
+279,09/02/2020 16:22:00,09/02/2020 16:54:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,948131.35,67182.64,JPN
+279,10/02/2020 06:19:00,10/02/2020 06:44:00,Send Request for Quotation to Supplier,Magdalena Predutta,Purchasing Agent,948131.35,67182.64,JPN
+279,10/02/2020 10:17:00,10/02/2020 14:07:00,Create Quotation comparison Map,Karel de Groot,Purchasing Agent,948131.35,67182.64,JPN
+279,10/02/2020 21:15:00,10/02/2020 21:24:00,Analyze Quotation comparison Map,Nico Ojenbeer,Requester,948131.35,67182.64,JPN
+279,10/02/2020 21:24:00,10/02/2020 21:24:00,Choose best option,Elvira Lores,Requester,948131.35,67182.64,JPN
+279,11/02/2020 01:12:00,11/02/2020 11:43:00,Settle conditions with supplier,Francois de Perrier,Purchasing Agent,948131.35,67182.64,JPN
+279,11/02/2020 19:01:00,11/02/2020 19:12:00,Create Purchase Order,Karel de Groot,Purchasing Agent,948131.35,67182.64,JPN
+279,12/02/2020 04:20:00,12/02/2020 04:42:00,Confirm Purchase Order,Karen Clarens,Supplier,948131.35,67182.64,JPN
+279,12/02/2020 19:52:00,13/02/2020 16:53:00,Deliver Goods Services,Kiu Kan,Supplier,948131.35,67182.64,JPN
+279,14/02/2020 00:07:00,14/02/2020 00:08:00,Release Purchase Order,Anne Olwada,Requester,948131.35,67182.64,JPN
+279,14/02/2020 14:50:00,14/02/2020 14:51:00,Approve Purchase Order for payment,Karel de Groot,Purchasing Agent,948131.35,67182.64,JPN
+279,15/02/2020 09:36:00,15/02/2020 09:36:00,Send invoice,Karen Clarens,Supplier,948131.35,67182.64,JPN
+279,15/02/2020 23:56:00,16/02/2020 00:00:00,Release Supplier's Invoice,Pedro Alvares,Financial Manager,948131.35,67182.64,JPN
+279,16/02/2020 00:00:00,16/02/2020 00:00:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,948131.35,67182.64,JPN
+279,16/02/2020 00:13:00,16/02/2020 00:24:00,Pay invoice,Pedro Alvares,Financial Manager,948131.35,67182.64,JPN
+1375,17/07/2020 18:46:00,17/07/2020 19:05:00,Create Purchase Requisition,Anne Olwada,Requester,980011.86,115454.94,SGP
+1375,18/07/2020 02:13:00,18/07/2020 02:21:00,Create Request for Quotation Requester,Alberto Duport,Requester,980011.86,115454.94,SGP
+1375,22/07/2020 02:02:00,22/07/2020 02:29:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,980011.86,115454.94,SGP
+1375,22/07/2020 03:21:00,22/07/2020 03:35:00,Amend Request for Quotation Requester,Anne Olwada,Requester Manager,980011.86,115454.94,SGP
+1375,22/07/2020 07:23:00,22/07/2020 07:48:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,980011.86,115454.94,SGP
+1375,22/07/2020 08:34:00,22/07/2020 08:41:00,Amend Request for Quotation Requester,Miu Hanwan,Requester Manager,980011.86,115454.94,SGP
+1375,14/08/2020 06:43:00,14/08/2020 06:59:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,980011.86,115454.94,SGP
+1375,14/08/2020 07:53:00,14/08/2020 08:05:00,Amend Request for Quotation Requester,Anne Olwada,Requester Manager,980011.86,115454.94,SGP
+1375,04/09/2020 23:50:00,05/09/2020 00:18:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,980011.86,115454.94,SGP
+1375,05/09/2020 15:53:00,05/09/2020 16:15:00,Send Request for Quotation to Supplier,Francois de Perrier,Purchasing Agent,980011.86,115454.94,SGP
+1375,05/09/2020 17:49:00,05/09/2020 19:06:00,Create Quotation comparison Map,Francois de Perrier,Purchasing Agent,980011.86,115454.94,SGP
+1375,06/09/2020 01:57:00,06/09/2020 02:29:00,Analyze Quotation comparison Map,Clement Duchot,Requester,980011.86,115454.94,SGP
+1375,06/09/2020 02:29:00,06/09/2020 02:29:00,Choose best option,Anna Kaufmann,Requester,980011.86,115454.94,SGP
+1375,06/09/2020 07:13:00,06/09/2020 15:27:00,Settle conditions with supplier,Karel de Groot,Purchasing Agent,980011.86,115454.94,SGP
+1375,06/09/2020 20:24:00,06/09/2020 20:32:00,Create Purchase Order,Karel de Groot,Purchasing Agent,980011.86,115454.94,SGP
+1375,09/09/2020 01:51:00,09/09/2020 02:25:00,Confirm Purchase Order,Carmen Finacse,Supplier,980011.86,115454.94,SGP
+1375,16/09/2020 04:25:00,18/09/2020 00:54:00,Deliver Goods Services,Kiu Kan,Supplier,980011.86,115454.94,SGP
+1375,18/09/2020 08:48:00,18/09/2020 08:49:00,Release Purchase Order,Fjodor Kowalski,Requester,980011.86,115454.94,SGP
+1375,18/09/2020 15:07:00,19/09/2020 00:10:00,Settle dispute with supplier Purchasing Agent,Francois de Perrier,Purchasing Agent,980011.86,115454.94,SGP
+1375,19/09/2020 07:57:00,19/09/2020 07:58:00,Release Purchase Order,Fjodor Kowalski,Requester,980011.86,115454.94,SGP
+1375,19/09/2020 20:08:00,19/09/2020 20:09:00,Approve Purchase Order for payment,Francois de Perrier,Purchasing Agent,980011.86,115454.94,SGP
+1375,01/10/2020 02:49:00,01/10/2020 02:49:00,Send invoice,Kiu Kan,Supplier,980011.86,115454.94,SGP
+1375,01/10/2020 17:13:00,01/10/2020 17:18:00,Release Supplier's Invoice,Pedro Alvares,Financial Manager,980011.86,115454.94,SGP
+1375,01/10/2020 17:18:00,01/10/2020 17:18:00,Authorize Supplier's Invoice payment,Karalda Nimwada,Financial Manager,980011.86,115454.94,SGP
+1375,01/10/2020 18:09:00,01/10/2020 18:20:00,Pay invoice,Karalda Nimwada,Financial Manager,980011.86,115454.94,SGP
+470,08/03/2020 22:20:00,08/03/2020 23:11:00,Create Purchase Requisition,Esmana Liubiata,Requester,265637.44,31005.87,JPN
+470,09/03/2020 16:31:00,09/03/2020 16:38:00,Analyze Purchase Requisition,Maris Freeman,Requester Manager,265637.44,31005.87,JPN
+470,09/03/2020 16:42:00,09/03/2020 16:44:00,Create Request for Quotation Requester Manager,Francis Odell,Requester Manager,265637.44,31005.87,JPN
+470,13/03/2020 12:30:00,13/03/2020 12:59:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,265637.44,31005.87,JPN
+470,14/03/2020 04:58:00,14/03/2020 05:14:00,Amend Request for Quotation Requester Manager,Heinz Gutschmidt,Requester Manager,265637.44,31005.87,JPN
+470,14/03/2020 08:04:00,14/03/2020 08:49:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,265637.44,31005.87,JPN
+1378,17/07/2020 23:04:00,17/07/2020 23:43:00,Create Purchase Requisition,Anne Olwada,Requester,1179847.55,166564.22,NZL
+1378,18/07/2020 14:26:00,18/07/2020 14:33:00,Analyze Purchase Requisition,Maris Freeman,Requester Manager,1179847.55,166564.22,NZL
+1377,17/07/2020 21:07:00,17/07/2020 21:40:00,Create Purchase Requisition,Nico Ojenbeer,Requester,831681.86,183351.34,SGP
+1377,17/07/2020 22:39:00,17/07/2020 22:51:00,Create Request for Quotation Requester,Anne Olwada,Requester,831681.86,183351.34,SGP
+1377,14/10/2020 12:15:00,14/10/2020 12:50:00,Analyze Request for Quotation,Francois de Perrier,Purchasing Agent,831681.86,183351.34,SGP
+1917,08/10/2020 21:07:00,08/10/2020 21:23:00,Create Purchase Requisition,Miu Hanwan,Requester,88775.53,22041.94,JPN
+1917,09/10/2020 15:11:00,09/10/2020 15:17:00,Analyze Purchase Requisition,Maris Freeman,Requester Manager,88775.53,22041.94,JPN
+1123,12/06/2020 14:50:00,12/06/2020 15:31:00,Create Purchase Requisition,Fjodor Kowalski,Requester,240640.94,33281.5,SGP
+1123,13/06/2020 00:58:00,13/06/2020 01:05:00,Analyze Purchase Requisition,Francis Odell,Requester Manager,240640.94,33281.5,SGP
+1123,13/06/2020 01:12:00,13/06/2020 01:14:00,Create Request for Quotation Requester Manager,Heinz Gutschmidt,Requester Manager,240640.94,33281.5,SGP
+1123,21/06/2020 23:57:00,22/06/2020 00:38:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,240640.94,33281.5,SGP
+1128,13/06/2020 19:58:00,13/06/2020 20:24:00,Create Purchase Requisition,Fjodor Kowalski,Requester,614996.32,68691.1,NZL
+1128,14/06/2020 02:56:00,14/06/2020 03:06:00,Create Request for Quotation Requester,Immanuel Karagianni,Requester,614996.32,68691.1,NZL
+1128,19/06/2020 23:18:00,19/06/2020 23:46:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,614996.32,68691.1,NZL
+1128,20/06/2020 00:43:00,20/06/2020 00:51:00,Amend Request for Quotation Requester,Clement Duchot,Requester Manager,614996.32,68691.1,NZL
+1128,12/07/2020 07:13:00,12/07/2020 07:31:00,Analyze Request for Quotation,Karel de Groot,Purchasing Agent,614996.32,68691.1,NZL
+1128,12/07/2020 08:20:00,12/07/2020 08:30:00,Amend Request for Quotation Requester,Penn Osterwalder,Requester Manager,614996.32,68691.1,NZL
+1128,22/07/2020 13:07:00,22/07/2020 13:20:00,Analyze Request for Quotation,Magdalena Predutta,Purchasing Agent,614996.32,68691.1,NZL
+1128,23/07/2020 16:49:00,23/07/2020 17:07:00,Send Request for Quotation to Supplier,Francois de Perrier,Purchasing Agent,614996.32,68691.1,NZL
+1128,24/07/2020 05:19:00,24/07/2020 07:36:00,Create Quotation comparison Map,Francois de Perrier,Purchasing Agent,614996.32,68691.1,NZL
+1128,24/07/2020 14:36:00,24/07/2020 14:49:00,Analyze Quotation comparison Map,Elvira Lores,Requester,614996.32,68691.1,NZL
+1128,24/07/2020 14:49:00,24/07/2020 14:49:00,Choose best option,Clement Duchot,Requester,614996.32,68691.1,NZL
+1128,25/07/2020 05:55:00,25/07/2020 19:17:00,Settle conditions with supplier,Francois de Perrier,Purchasing Agent,614996.32,68691.1,NZL
+1128,26/07/2020 09:37:00,26/07/2020 09:46:00,Create Purchase Order,Francois de Perrier,Purchasing Agent,614996.32,68691.1,NZL
+1128,03/08/2020 02:09:00,03/08/2020 02:25:00,Confirm Purchase Order,Karen Clarens,Supplier,614996.32,68691.1,NZL
+1128,28/08/2020 16:14:00,29/08/2020 09:16:00,Deliver Goods Services,Sean Manney,Supplier,614996.32,68691.1,NZL
+1128,29/08/2020 16:30:00,29/08/2020 16:31:00,Release Purchase Order,Nico Ojenbeer,Requester,614996.32,68691.1,NZL
+1128,30/08/2020 05:54:00,30/08/2020 05:55:00,Approve Purchase Order for payment,Karel de Groot,Purchasing Agent,614996.32,68691.1,NZL
+1128,01/09/2020 05:40:00,01/09/2020 05:40:00,Send invoice,Kiu Kan,Supplier,614996.32,68691.1,NZL
+1128,01/09/2020 20:06:00,01/09/2020 20:13:00,Release Supplier's Invoice,Karalda Nimwada,Financial Manager,614996.32,68691.1,NZL
+1128,01/09/2020 20:13:00,01/09/2020 20:13:00,Authorize Supplier's Invoice payment,Pedro Alvares,Financial Manager,614996.32,68691.1,NZL
+1128,01/09/2020 20:47:00,01/09/2020 20:59:00,Pay invoice,Pedro Alvares,Financial Manager,614996.32,68691.1,NZL

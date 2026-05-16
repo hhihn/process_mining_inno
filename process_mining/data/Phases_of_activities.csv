@@ -1,0 +1,25 @@
+﻿Phase;Activity
+1;Create Purchase Requisition
+1;Create Request for Quotation Requester
+1;Create Request for Quotation Requester Manager
+1;Analyze Purchase Requisition
+1;Amend Purchase Requisition
+2;Amend Request for Quotation Requester Manager
+2;Amend Request for Quotation Requester
+2;Analyze Request for Quotation
+2;Send Request for Quotation to Supplier
+3;Create Quotation comparison Map
+3;Analyze Quotation comparison Map
+3;Choose best option
+3;Settle conditions with supplier
+4;Create Purchase Order
+4;Confirm Purchase Order
+4;Deliver Goods Services
+4;Release Purchase Order
+4;Approve Purchase Order for payment
+5;Send invoice
+5;Release Supplier's Invoice
+5;Settle dispute with supplier Purchasing Agent
+5;Settle dispute with supplier Financial Manager
+5;Authorize Supplier's Invoice payment
+5;Pay invoice
