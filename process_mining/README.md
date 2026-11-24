@@ -4,6 +4,12 @@ Dieses Repository enthält einen kleinen Procure-to-Pay-Datensatz und ein explor
 
 Ziel der Übung ist es, mit Process-Mining-Daten typische Prozessprobleme sichtbar zu machen: lange Durchlaufzeiten, Bottlenecks, Prozessvarianten, Nacharbeit und Unterschiede zwischen Ländern.
 
+## Einführung In Die Aufgabe
+
+In dieser Übung übernehmen die Studierenden die Rolle eines Process-Innovation-Teams. Ein Unternehmen möchte seinen Procure-to-Pay-Prozess besser verstehen und datenbasiert entscheiden, wo Verbesserungen sinnvoll sind. Der Prozess reicht von der Erstellung einer Einkaufsanforderung über Angebotsanfragen, Bestellung, Lieferung und Rechnungsprüfung bis zur Bezahlung der Rechnung.
+
+Die Aufgabe besteht darin, den vorhandenen Eventlog explorativ zu analysieren und daraus konkrete Prozessprobleme abzuleiten. Im Mittelpunkt stehen Fragen wie: Wo entstehen Wartezeiten? Welche Prozessvarianten treten besonders häufig auf? Gibt es Hinweise auf Nacharbeit oder Konflikte? Unterscheiden sich Länder in ihrer Prozessgeschwindigkeit? Auf Basis dieser Beobachtungen sollen mögliche Process-Innovation-Maßnahmen vorgeschlagen werden, zum Beispiel Automatisierung, bessere Standardisierung, Eskalationsregeln oder digitale Dashboards.
+
 ## Projektstruktur
 
 ```text
@@ -43,6 +49,30 @@ Die drei `Procure-to-Pay*.csv`-Dateien enthalten Eventlogs mit diesen zentralen 
 - `Country`: Land
 
 Die Datei `Phases_of_activities.csv` ordnet Aktivitäten groben Prozessphasen zu.
+
+Der Datensatz besteht aus mehreren Ereignissen pro Prozessfall. Ein Prozessfall wird über die `Case ID` identifiziert. Jede Zeile beschreibt eine einzelne Aktivität, die zu einem bestimmten Zeitpunkt startet und endet. Wenn man alle Aktivitäten eines Cases nach Zeit sortiert, erhält man den konkreten Ablauf dieses Falls.
+
+Ein vereinfachtes Beispiel:
+
+```text
+Case 560:
+Create Purchase Requisition
+-> Analyze Purchase Requisition
+-> Create Request for Quotation
+-> Analyze Request for Quotation
+-> Create Purchase Order
+-> Send invoice
+-> Pay invoice
+```
+
+Damit eignet sich der Datensatz gut für Process Mining, weil sowohl die zeitliche Reihenfolge als auch die Dauer und organisatorische Informationen enthalten sind. Die Daten erlauben unter anderem:
+
+- Durchlaufzeiten pro Case zu berechnen
+- Wartezeiten zwischen Aktivitäten zu identifizieren
+- häufige und seltene Prozessvarianten zu vergleichen
+- Nacharbeit über Aktivitäten wie `Amend ...` oder `Settle dispute ...` zu erkennen
+- Unterschiede zwischen Ländern, Rollen oder Ressourcen zu untersuchen
+- finanzielle Merkmale wie Rechnungsbetrag und Rabatt mit Prozessdauer zu vergleichen
 
 ## Setup
 
